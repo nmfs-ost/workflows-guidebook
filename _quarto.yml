@@ -4,9 +4,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "Workflows Guidebook" 
+  site-url: "https://nmfs-ost.github.io/workflows-guidebook/" 
+  repo-url: "https://github.com/nmfs-ost/workflows-guidebook"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
