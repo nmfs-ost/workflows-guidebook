@@ -33,18 +33,16 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/rmarkdown.Rmd
-        text: R Markdown files
-      - href: content/code.qmd
-        text: Code in your files
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/who.qmd
+        text: Who
+      - href: content/what.qmd
+        text: What
+      - href: content/when.qmd
+        text: When
+      - href: content/where.Rmd
+        text: Where
+      - href: content/why.qmd
+        text: Why
 
 format:
   html:
@@ -59,5 +57,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  
