@@ -9,15 +9,18 @@ The current members of the workflows steering committee are:
 <center>
 </center> 
 --->
-- Ben Williams (AFSC)
-- Daniel Hennen (NEFSC)
-- Kiva Oken (NWFSC)
-- Eli Holmes (NWFSC)
-- Lisa Ailloud (SEFSC)
-- Caitlin Allen Akselrud (SWFSC)
-- Megumi Oshima (PIFSC)
-- Michelle Sculley (PIFSC)
-- Samantha Schiano (HQ OST contractor)
-- Sophie Breitbart (HQ OST contractor)
-- Kelli Johnson (HQ OST)
+Ben Williams (AFSC)
+Daniel Hennen (NEFSC)
+Kiva Oken (NWFSC)
+Eli Holmes (NWFSC)
+Lisa Ailloud (SEFSC)
+Caitlin Allen Akselrud (SWFSC)
+Megumi Oshima (PIFSC)
+Michelle Sculley (PIFSC)
+Kelli Johnson (HQ OST)
 :::
+
+Each member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.
+
+The steering committee is joined by the [current stock assessment workflows](../team/who.qmd) (@sec-team-who) team which governs this group.
+

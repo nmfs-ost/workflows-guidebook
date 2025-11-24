@@ -2,3 +2,8 @@
 title: "What"
 ---
 
+<!---
+What is the role of the steering committee?
+What is each person expected to do?
+--->
+
