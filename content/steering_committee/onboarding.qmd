@@ -1,0 +1,10 @@
+---
+title: "Onboarding Checklist"
+---
+
+An onboarding checklist for new steering committee members.
+
+- [ ] Request access to google chat space
+- [ ] Check that you have been added to the monthly meetings
+- [ ] Review previous running notes
+- [ ] Review guidebook

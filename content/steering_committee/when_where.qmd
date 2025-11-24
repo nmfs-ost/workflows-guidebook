@@ -4,8 +4,21 @@ title: "When & Where"
 
 ## Meeting Schedule and Communication
 
-The workflows steering committee meets monthly, typically on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members.
+The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.
 
 Communication with the steering committee is made through email, Google chat space, and GitHub discussions.
 
 ## Meeting Planning
+
+Meeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.
+
+Occasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.
+
+Steering committee members are encouraged to preview the agenda or add their own topics when the need arises.
+
+The agenda and notes can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) 
+(viewable and editable by the steering committee and internal NOAA HQ team).
+
+## Feedback Deadlines
+
+When review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.

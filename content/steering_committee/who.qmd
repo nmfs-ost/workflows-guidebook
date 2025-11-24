@@ -2,6 +2,8 @@
 title: "Who"
 ---
 
+# The Steering Committee
+
 The current members of the workflows steering committee are:
 
 ::: {style="text-align: center;"}
@@ -22,5 +24,8 @@ Kelli Johnson (HQ OST)
 
 Each member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.
 
+## The Workflows Team
+
 The steering committee is joined by the [current stock assessment workflows](../team/who.qmd) (@sec-team-who) team which governs this group.
+
 

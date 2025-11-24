@@ -7,3 +7,13 @@ What is the role of the steering committee?
 What is each person expected to do?
 --->
 
+## Project Folder Navigation
+
+The project folder called "Steering Committee" can be found in your "Shared drives" folder in Google Drive. This folder contains important documents and resources related to the steering committee's activities, including meeting notes, agendas, and other relevant materials.
+
+The following folders are the most relevant to review for new members:
+
+- Call agenda/notes
+- Conference abstracts
+- Implementation plans
+- Manuscripts
