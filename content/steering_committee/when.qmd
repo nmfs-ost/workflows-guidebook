@@ -1,0 +1,12 @@
+---
+title: "When"
+---
+
+## Meeting Schedule and Communication
+
+The workflows steering committee meets monthly, typically on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members.
+
+
+Communication with the steering committee is made through email, Google chat space, and GitHub discussions.
+
+## Meeting Planning

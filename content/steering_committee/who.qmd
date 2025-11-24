@@ -1,0 +1,23 @@
+---
+title: "Who"
+---
+
+The current members of the workflows steering committee are:
+
+::: {style="text-align: center;"}
+<!--- 
+<center>
+</center> 
+--->
+- Ben Williams (AFSC)
+- Daniel Hennen (NEFSC)
+- Kiva Oken (NWFSC)
+- Eli Holmes (NWFSC)
+- Lisa Ailloud (SEFSC)
+- Caitlin Allen Akselrud (SWFSC)
+- Megumi Oshima (PIFSC)
+- Michelle Sculley (PIFSC)
+- Samantha Schiano (HQ OST contractor)
+- Sophie Breitbart (HQ OST contractor)
+- Kelli Johnson (HQ OST)
+:::
