@@ -1,0 +1,59 @@
+project: 
+  type: website
+
+website: 
+  page-navigation: true
+  title: "Workflows Guidebook" 
+  site-url: "https://nmfs-ost.github.io/workflows-guidebook/" 
+  repo-url: "https://github.com/nmfs-ost/workflows-guidebook"
+  repo-actions: [edit, source, issue]
+  favicon: images/favicon.ico
+  
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; CC-1.0"
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://nmfs-opensci.github.io
+        text: "NMFS Open Science"
+      - icon: github
+        href: https://github.com/nmfs-opensci
+        text: "NMFS OpenSci"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: content/who.qmd
+        text: Who
+      - href: content/what.qmd
+        text: What
+      - href: content/when.qmd
+        text: When
+      - href: content/where.Rmd
+        text: Where
+      - href: content/why.qmd
+        text: Why
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
