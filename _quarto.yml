@@ -40,7 +40,7 @@ website:
         text: What
       - href: content/team/when.qmd
         text: When
-      - href: content/team/where.Rmd
+      - href: content/team/where.qmd
         text: Where
       - href: content/why.qmd
         text: Why
