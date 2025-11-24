@@ -34,13 +34,13 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: content/who.qmd
+      - href: content/team/who.qmd
         text: Who
-      - href: content/what.qmd
+      - href: content/team/what.qmd
         text: What
-      - href: content/when.qmd
+      - href: content/team/when.qmd
         text: When
-      - href: content/where.Rmd
+      - href: content/team/where.Rmd
         text: Where
       - href: content/why.qmd
         text: Why
