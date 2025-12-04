@@ -1,5 +1,5 @@
 ---
-title: Acknowledgments
+title: Who
 ---
 
 # Who {#sec-team-who}
@@ -54,4 +54,3 @@ info_df <- data.table::as.data.table(
 library(gt)
 ```
 
-This repo and GitHub Action was based on the tutorial by Openscapes [quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial) by Julia Lowndes and Stefanie Butland.
