@@ -42,6 +42,8 @@ description <- c(
   "Kathryn...",
   "Bai..."
 )
+
+# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly
 info_df <- data.table::as.data.table(
   data.frame(
     "Name" = name,

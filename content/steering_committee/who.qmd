@@ -11,14 +11,14 @@ The current members of the workflows steering committee are:
 <center>
 </center> 
 --->
-Ben Williams (AFSC)
-Daniel Hennen (NEFSC)
-Kiva Oken (NWFSC)
-Eli Holmes (NWFSC)
-Lisa Ailloud (SEFSC)
-Caitlin Allen Akselrud (SWFSC)
-Megumi Oshima (PIFSC)
-Michelle Sculley (PIFSC)
+Ben Williams (AFSC)  
+Daniel Hennen (NEFSC)  
+Kiva Oken (NWFSC)  
+Eli Holmes (NWFSC)  
+Lisa Ailloud (SEFSC)  
+Caitlin Allen Akselrud (SWFSC)  
+Megumi Oshima (PIFSC)  
+Michelle Sculley (PIFSC)  
 Kelli Johnson (HQ OST)
 :::
 
