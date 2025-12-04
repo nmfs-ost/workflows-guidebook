@@ -30,27 +30,28 @@ website:
 
     search: true
     collapse-level: 1
+    contents:
     - title: "Team"
       style: "docked"
       contents:
-        - href: index.qmd
-          text: Home
-        - href: content/team/who.qmd
-          text: Who
-        - href: content/team/what.qmd
-          text: What
-        - href: content/team/when.qmd
-          text: When
-        - href: content/team/where.qmd
-          text: Where
-        - href: content/why.qmd
-          text: Why
+      - href: index.qmd
+        text: Home
+      - href: content/team/who.qmd
+        text: Who
+      - href: content/team/what.qmd
+        text: What
+      - href: content/team/when.qmd
+        text: When
+      - href: content/team/where.qmd
+        text: Where
+      - href: content/why.qmd
+        text: Why
     - title: "Steering Committee"
       style: "docked"
       contents:
-        - href: content/steering_committee/how.qmd
-        - href: content/steering/what.qmd
-        - href: content/steering/how.qmd
+      - href: content/steering_committee/how.qmd
+      - href: content/steering/what.qmd
+      - href: content/steering/how.qmd
 format:
   html:
     theme:
