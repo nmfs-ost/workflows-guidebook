@@ -4,4 +4,54 @@ title: Acknowledgments
 
 # Who {#sec-team-who}
 
+Current and previous members of the workflows project team.
+
+```{r}
+name <- c(
+  "Sam Schiano",
+  "Sophie Breitbart",
+  "Steve Saul",
+  "Kathryn Doering",
+  "Bai Li"
+  )
+role <- c(
+  "Coordinator and developer",
+  "Developer",
+  "Research & Development",
+  "Coordinator",
+  "Developer and Coordinator"
+)
+status <- c(
+  "Active",
+  "Active", 
+  "Inactive",
+  "Inactive",
+  "Inactive"
+)
+time_zone <- c(
+  "Eastern Time (US & Canada)",
+  "Eastern Time (US & Canada)",
+  "Mountain Time",
+  "Western Time (US & Canada)",
+  "Eastern Time (US & Canada)"
+)
+description <- c(
+  "Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and steering committee.",
+  "Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.",
+  "Steve...",
+  "Kathryn...",
+  "Bai..."
+)
+info_df <- data.table::as.data.table(
+  data.frame(
+    "Name" = name,
+    "Role" = role,
+    "Status" = status,
+    "Time Zone" = time_zone,
+    "Description" = description
+  )
+)
+library(gt)
+```
+
 This repo and GitHub Action was based on the tutorial by Openscapes [quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial) by Julia Lowndes and Stefanie Butland.

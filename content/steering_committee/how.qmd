@@ -2,8 +2,32 @@
 title: "How"
 ---
 
+# Role of the Steering Committee
+
+The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee's primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.
+
+The steering committee members are expected to:
+- Attend monthly virtual meetings to discuss project updates, challenges, and opportunities
+- Review and provide feedback on project plans, documentation, and deliverables
+- Share insights and best practices from their respective regions and areas of expertise
+- Advocate for the adoption of reproducible workflows within their organizations
+- Collaborate with the workflows team to identify and address any barriers to implementation
+
+Please see @sec-membership on what a steering committee is responsible to do when they are no longer able to serve the committee.
+
 # Governance
 
-## Membership
+- operate under a mix of benevolent dictator and consensus
+- final decisions are made by the workflows team lead while considering the input of the steering committee made explicit through consensus methods
+- often for various topics we use voting chips to create prioritization and gauge interest
+- we aim to be transparent in our decision making and document the process through meeting notes
+
+## Membership {#sec-membership}
 
 Steering committee members have the option to rotate off of the group given they provide a sufficient replacement  before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.
+
+<!-- thoughts on the below addition. might need to be in what instead -->
+An annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.
+
+When a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.
+

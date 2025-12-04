@@ -17,3 +17,14 @@ The following folders are the most relevant to review for new members:
 - Conference abstracts
 - Implementation plans
 - Manuscripts
+
+Any new steering committee members are encouraged to review the content in this folder prior to their first meeting.
+
+## Meeting Notes
+
+Meeting notes from previous steering committee meetings can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) 
+(viewable and editable by the steering committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.
+
+Each meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance.
+
+
