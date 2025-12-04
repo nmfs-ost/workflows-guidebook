@@ -1,6 +1,6 @@
 project: 
   type: website
-  output-dir: docs
+  # output-dir: docs
 
 website: 
   page-navigation: true
@@ -8,7 +8,7 @@ website:
   site-url: "https://nmfs-ost.github.io/workflows-guidebook/" 
   repo-url: "https://github.com/nmfs-ost/workflows-guidebook"
   repo-actions: [edit, source, issue]
-  favicon: images/favicon.ico
+  # favicon: images/favicon.ico
   
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -16,17 +16,17 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
-    favicon: images/favicon.ico
+    # logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    # favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://nmfs-ost.github.io/workflows-guidebook/
+        text: "Guidebook website"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/nmfs-ost/workflows-guidebook
+        text: "Guidebook Github"
 
     search: true
     collapse-level: 1
