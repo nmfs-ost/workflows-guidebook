@@ -22,3 +22,10 @@ The agenda and notes can be found in a living [Google document](https://docs.goo
 ## Feedback Deadlines
 
 When review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.
+
+## Tools and Resources
+
+- asar repo
+- stockplotr repo
+- requesting to get added to workflows gh team
+- add to google chat space/request access/include link here
