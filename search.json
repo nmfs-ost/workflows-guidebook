@@ -1,114 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NOAA quarto simple with R",
+    "objectID": "content/steering_committee/onboarding.html",
+    "href": "content/steering_committee/onboarding.html",
+    "title": "Onboarding Checklist",
     "section": "",
-    "text": "This is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "An onboarding checklist for new steering committee members.\n\nRequest access to google chat space\nCheck that you have been added to the monthly meetings\nReview previous running notes\nReview guidebook"
   },
   {
-    "objectID": "index.html#github-set-up",
-    "href": "index.html#github-set-up",
-    "title": "NOAA quarto simple with R",
-    "section": "GitHub Set-up",
-    "text": "GitHub Set-up\n\nClick the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nTurn on GitHub Actions under Settings &gt; Actions &gt; General \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/who.html",
-    "href": "content/who.html",
-    "title": "Acknowledgments",
+    "objectID": "content/steering_committee/what.html",
+    "href": "content/steering_committee/what.html",
+    "title": "What",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
-    "crumbs": [
-      "Who"
-    ]
+    "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting."
   },
   {
-    "objectID": "content/when.html",
-    "href": "content/when.html",
-    "title": "Rendering with Code",
+    "objectID": "content/steering_committee/what.html#project-folder-navigation",
+    "href": "content/steering_committee/what.html#project-folder-navigation",
+    "title": "What",
     "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
-    "crumbs": [
-      "When"
-    ]
+    "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting."
   },
   {
-    "objectID": "content/when.html#modify-the-github-action",
-    "href": "content/when.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
-    "crumbs": [
-      "When"
-    ]
+    "objectID": "content/steering_committee/what.html#meeting-notes",
+    "href": "content/steering_committee/what.html#meeting-notes",
+    "title": "What",
+    "section": "Meeting Notes",
+    "text": "Meeting Notes\nMeeting notes from previous steering committee meetings can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance."
   },
   {
-    "objectID": "content/when.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/when.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
-    "crumbs": [
-      "When"
-    ]
-  },
-  {
-    "objectID": "content/what.html",
-    "href": "content/what.html",
-    "title": "Customize",
+    "objectID": "content/steering_committee/when_where.html",
+    "href": "content/steering_committee/when_where.html",
+    "title": "When & Where",
     "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "What"
-    ]
+    "text": "The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions."
   },
   {
-    "objectID": "content/what.html#edit-and-add-your-pages",
-    "href": "content/what.html#edit-and-add-your-pages",
-    "title": "Customize",
+    "objectID": "content/steering_committee/when_where.html#meeting-schedule-and-communication",
+    "href": "content/steering_committee/when_where.html#meeting-schedule-and-communication",
+    "title": "When & Where",
     "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "What"
-    ]
+    "text": "The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions."
   },
   {
-    "objectID": "content/what.html#add-your-pages-the-project",
-    "href": "content/what.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
-    "crumbs": [
-      "What"
-    ]
+    "objectID": "content/steering_committee/when_where.html#meeting-planning",
+    "href": "content/steering_committee/when_where.html#meeting-planning",
+    "title": "When & Where",
+    "section": "Meeting Planning",
+    "text": "Meeting Planning\nMeeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\nThe agenda and notes can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team)."
   },
   {
-    "objectID": "content/where.html",
-    "href": "content/where.html",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
-  },
-  {
-    "objectID": "content/where.html#quarto-documentation",
-    "href": "content/where.html#quarto-documentation",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
-  },
-  {
-    "objectID": "content/where.html#examples",
-    "href": "content/where.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFay lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+    "objectID": "content/steering_committee/when_where.html#feedback-deadlines",
+    "href": "content/steering_committee/when_where.html#feedback-deadlines",
+    "title": "When & Where",
+    "section": "Feedback Deadlines",
+    "text": "Feedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration."
   },
   {
     "objectID": "content/why.html",
@@ -148,6 +93,167 @@
     "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\"",
     "crumbs": [
       "Why"
+    ]
+  },
+  {
+    "objectID": "content/team/where.html",
+    "href": "content/team/where.html",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
+    "crumbs": [
+      "Where"
+    ]
+  },
+  {
+    "objectID": "content/team/where.html#quarto-documentation",
+    "href": "content/team/where.html#quarto-documentation",
+    "title": "Customization",
+    "section": "",
+    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
+    "crumbs": [
+      "Where"
+    ]
+  },
+  {
+    "objectID": "content/team/where.html#examples",
+    "href": "content/team/where.html#examples",
+    "title": "Customization",
+    "section": "Examples",
+    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFay lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory.",
+    "crumbs": [
+      "Where"
+    ]
+  },
+  {
+    "objectID": "content/team/who.html",
+    "href": "content/team/who.html",
+    "title": "Who",
+    "section": "",
+    "text": "Who\nCurrent and previous members of the workflows project team.\n\nname &lt;- c(\n  \"Sam Schiano\",\n  \"Sophie Breitbart\",\n  \"Steve Saul\",\n  \"Kathryn Doering\",\n  \"Bai Li\"\n  )\nrole &lt;- c(\n  \"Coordinator and developer\",\n  \"Developer\",\n  \"Research & Development\",\n  \"Coordinator\",\n  \"Developer and Coordinator\"\n)\nstatus &lt;- c(\n  \"Active\",\n  \"Active\", \n  \"Inactive\",\n  \"Inactive\",\n  \"Inactive\"\n)\ntime_zone &lt;- c(\n  \"Eastern Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\",\n  \"Mountain Time\",\n  \"Western Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\"\n)\ndescription &lt;- c(\n  \"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and steering committee.\",\n  \"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.\",\n  \"Steve...\",\n  \"Kathryn...\",\n  \"Bai...\"\n)\n\n# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly\ninfo_df &lt;- data.table::as.data.table(\n  data.frame(\n    \"Name\" = name,\n    \"Role\" = role,\n    \"Status\" = status,\n    \"Time Zone\" = time_zone,\n    \"Description\" = description\n  )\n)\n# library(gt)",
+    "crumbs": [
+      "Who"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "This is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#github-set-up",
+    "href": "index.html#github-set-up",
+    "title": "NOAA quarto simple with R",
+    "section": "GitHub Set-up",
+    "text": "GitHub Set-up\n\nClick the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nTurn on GitHub Actions under Settings &gt; Actions &gt; General \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/team/what.html",
+    "href": "content/team/what.html",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
+    "crumbs": [
+      "What"
+    ]
+  },
+  {
+    "objectID": "content/team/what.html#edit-and-add-your-pages",
+    "href": "content/team/what.html#edit-and-add-your-pages",
+    "title": "Customize",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
+    "crumbs": [
+      "What"
+    ]
+  },
+  {
+    "objectID": "content/team/what.html#add-your-pages-the-project",
+    "href": "content/team/what.html#add-your-pages-the-project",
+    "title": "Customize",
+    "section": "Add your pages the project",
+    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
+    "crumbs": [
+      "What"
+    ]
+  },
+  {
+    "objectID": "content/team/when.html",
+    "href": "content/team/when.html",
+    "title": "Rendering with Code",
+    "section": "",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
+    "crumbs": [
+      "When"
+    ]
+  },
+  {
+    "objectID": "content/team/when.html#modify-the-github-action",
+    "href": "content/team/when.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
+    "crumbs": [
+      "When"
+    ]
+  },
+  {
+    "objectID": "content/team/when.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/team/when.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
+    "crumbs": [
+      "When"
+    ]
+  },
+  {
+    "objectID": "content/acknowledgements.html",
+    "href": "content/acknowledgements.html",
+    "title": "Acknowledgements",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/steering_committee/who.html",
+    "href": "content/steering_committee/who.html",
+    "title": "Who",
+    "section": "",
+    "text": "The current members of the workflows steering committee are:\n\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.\n\n\nThe steering committee is joined by the current stock assessment workflows (?@sec-team-who) team which governs this group."
+  },
+  {
+    "objectID": "content/steering_committee/who.html#the-workflows-team",
+    "href": "content/steering_committee/who.html#the-workflows-team",
+    "title": "Who",
+    "section": "",
+    "text": "The steering committee is joined by the current stock assessment workflows (?@sec-team-who) team which governs this group."
+  },
+  {
+    "objectID": "content/steering_committee/how.html",
+    "href": "content/steering_committee/how.html",
+    "title": "How",
+    "section": "",
+    "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to: - Attend monthly virtual meetings to discuss project updates, challenges, and opportunities - Review and provide feedback on project plans, documentation, and deliverables - Share insights and best practices from their respective regions and areas of expertise - Advocate for the adoption of reproducible workflows within their organizations - Collaborate with the workflows team to identify and address any barriers to implementation\nPlease see Section 2.1 on what a steering committee is responsible to do when they are no longer able to serve the committee.",
+    "crumbs": [
+      "How"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html#sec-membership",
+    "href": "content/steering_committee/how.html#sec-membership",
+    "title": "How",
+    "section": "Membership",
+    "text": "Membership\nSteering committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\n\nAn annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "crumbs": [
+      "How"
     ]
   }
 ]
