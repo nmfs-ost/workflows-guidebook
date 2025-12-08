@@ -53,6 +53,6 @@ info_df <- data.table::as.data.table(
     "Description" = description
   )
 )
-library(gt)
+# library(gt)
 ```
 
