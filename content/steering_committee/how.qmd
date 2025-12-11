@@ -17,10 +17,14 @@ Please see @sec-membership on what a steering committee is responsible to do whe
 
 # Governance
 
-- operate under a mix of benevolent dictator and consensus
-- final decisions are made by the workflows team lead while considering the input of the steering committee made explicit through consensus methods
-- often for various topics we use voting chips to create prioritization and gauge interest
-- we aim to be transparent in our decision making and document the process through meeting notes
+In this guidebook, we want to explicitly define our governance structure in order to reduce issues in power imbalances, establish consistent decision-making processes, and  establish clear roles and accountability for both the steering committee and workflows team.
+
+We operate under a mix of benevolent dictator and consensus governance models where a consensus involves a series of voting with majority or all in agreement upon decisions on major development milestones and the direction of the project. While this governance style considers the input of all members of the steering committee, it can often be slow and result in decision paralysis. To mitigate this, the workflows team lead holds the final decision-making authority, allowing for more efficient progress while still valuing the contributions of the steering committee. This is why we have established an mix of benevolent dictator and consensus governance models. The benevolent dictator will make final decisions on behalf of the team and ensure progress is made in a timely manner.
+
+One of the various ways to make decisions is through voting. The "voting chip" feature found in Google docs is used often to provide a count in support or against a particular decision. An organizer can add voting chips into any Google doc through either typing "@vote" then selecting an option in the drop down or clicking on "Insert" in the top menu, then "Smart chips", and finally "Vote".
+
+The number of votes will often determine prioritization of tasks or features to be implemented. The workflows team lead will consider the votes and feedback from the steering committee when making final decisions. Finally, we aim to be transparent in our decision making and document the process through meeting notes.
+
 
 ## Membership {#sec-membership}
 
