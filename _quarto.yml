@@ -31,11 +31,11 @@ website:
     search: true
     collapse-level: 1
     contents:
+    - href: index.qmd
+      text: Home
     - title: "Team"
       style: "docked"
       contents:
-      - href: index.qmd
-        text: Home
       - href: content/team/who.qmd
         text: Who
       - href: content/team/what.qmd
@@ -50,9 +50,13 @@ website:
       style: "docked"
       contents:
       - href: content/steering_committee/how.qmd
+        text: How is the Steering Committee run?
       - href: content/steering_committee/what.qmd
+        text: What is their role?
       - href: content/steering_committee/who.qmd
+        text: Who is the steering committee?
       - href: content/steering_committee/when_where.qmd
+        text: When and where do they meet?
 format:
   html:
     theme:
