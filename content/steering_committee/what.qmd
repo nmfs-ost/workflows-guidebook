@@ -28,3 +28,14 @@ Meeting notes from previous steering committee meetings can be found in a living
 Each meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance.
 
 <!-- do we want to include progress and specifics on what the steering committee has influenced and done for the project? -->
+## Additional Documents
+
+Over time, we have utilized Google docs to organize and draft important documents for the steering committee including:
+
+- [Proposed outline for a fisheries stock assessment report template](https://docs.google.com/document/d/14g2HBawo1Fw940NevrTilK2dDQUnRe1-qpVyUoBE3Gk/edit?tab=t.0#heading=h.beswt11gvqni)
+- [Proposed tables and figures](https://docs.google.com/document/d/1VoYUAUp4uq4WiDp7sM4XEjPVNes7DqoGyf4alWSnFdg/edit?tab=t.0#heading=h.kkhzilkkf9cd)
+- [Draft guidelines for a stock assessment report](https://docs.google.com/document/d/1DfnAA7DIzPPyyx6Yz-TOOIvhOADbKXipwXT6lIPtcnU/edit?tab=t.0#heading=h.k9v3j6gdawm7)
+- and more found within the [steering committee implementation plans folder](https://drive.google.com/drive/folders/1RV41HzBYlmdTVKS8jM8KsVTeA7F0guvp)
+
+Each of these documents contains key processes that each steering committee member participated in and helped rationalize decisions made throughout the development of the project. New members are encouraged to review these documents to gain a deeper understanding of the committee's work and contributions.
+

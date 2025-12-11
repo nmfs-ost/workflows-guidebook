@@ -7,6 +7,7 @@ title: "How"
 The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee's primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.
 
 The steering committee members are expected to:
+
 - Attend monthly virtual meetings to discuss project updates, challenges, and opportunities
 - Review and provide feedback on project plans, documentation, and deliverables
 - Share insights and best practices from their respective regions and areas of expertise
