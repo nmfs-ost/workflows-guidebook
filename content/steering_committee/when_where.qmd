@@ -29,3 +29,4 @@ When review or feedback is request on the project for the steering committee, a 
 - stockplotr repo
 - requesting to get added to workflows gh team
 - add to google chat space/request access/include link here
+- use of github discussions for public and open discussion on releases, questions, and specific topics
