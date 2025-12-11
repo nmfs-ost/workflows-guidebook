@@ -56,6 +56,13 @@
     "text": "Feedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration."
   },
   {
+    "objectID": "content/steering_committee/when_where.html#tools-and-resources",
+    "href": "content/steering_committee/when_where.html#tools-and-resources",
+    "title": "When & Where",
+    "section": "Tools and Resources",
+    "text": "Tools and Resources\n\nasar repo\nstockplotr repo\nrequesting to get added to workflows gh team\nadd to google chat space/request access/include link here"
+  },
+  {
     "objectID": "content/why.html",
     "href": "content/why.html",
     "title": "Publishing",
@@ -252,6 +259,26 @@
     "title": "How",
     "section": "Membership",
     "text": "Membership\nSteering committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\n\nAn annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "crumbs": [
+      "How"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html#code-of-conduct",
+    "href": "content/steering_committee/how.html#code-of-conduct",
+    "title": "How",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct",
+    "crumbs": [
+      "How"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html#processes-for-getting-involved",
+    "href": "content/steering_committee/how.html#processes-for-getting-involved",
+    "title": "How",
+    "section": "Processes for getting involved",
+    "text": "Processes for getting involved",
     "crumbs": [
       "How"
     ]
