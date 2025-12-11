@@ -1,94 +1,34 @@
 ---
-title: Publishing
+title: "Why"
 ---
 
-To get your Quarto webpage to show up with the url
-```
-yourname.github.io/yourrepo
-```
-you have a few steps.
+# Purpose of this guidebook
 
-## Turn on GitHub Pages for your repo
+We developed this guidebook for multiple reasons.
 
-* Turn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and the root directory.
-* Turn on GitHub Actions under Settings > Actions > General
+First, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.
 
-The GitHub Action will automatically recreate your website when you push to GitHub **after** you do the initial `gh-pages` set-up
+Secondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project's core members are contractors.
 
-## Do your first publish to `gh-pages`
+# Project vision
 
-The first time you publish to `gh-pages`, you need to do so locally.
+We have several goals outlined for the Workflows project.
 
-* On your local computer, open a terminal window and `cd` to your repo directory. Here is what that `cd` command looks like for me. You command will look different because your local repo will be somewhere else on your computer.
-```
-cd ~/Documents/GitHub/NOAA-quarto-simple
-```
-* Publish to the `gh-pages`. In the terminal type
-```
-quarto publish gh-pages
-```
-This is going to render your webpage and then push the `_site` contents to the `gh-pages` branch.
+## High-level, conceptual goals
 
+In one of [the project's first documents](https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0) (see the "Assessment and Workflows" section), a broad goal of the Workflows project was to **"...take advantage of recent advances in technology and improve overall assessment processes"**. In alignment with the [2018 Next Generation Stock Assessment Improvement Plan](https://spo.nmfs.noaa.gov/sites/default/files/TM183.pdf), our project aims to **improve three of the "4Ts" of a timely, efficient, and effective stock assessment enterprise**: *throughput* (the number of assessments that can be produced); *timeliness* (the speed of assessment processes and assessment product delivery), and *transparency* (the accessibility of assessment results). Adoption of the project's products should also **"contribute to better service and improved trust with [NSAP's] partners and stakeholders"**.
 
-## Don't like using `gh-pages`?
+In parallel with these goals, we expect the workflow to **decrease the amount of time and effort spent completing tasks manually**, when they could be completed in a semi-automated fashion. This outcome should **increase reproducibility and transparency** in stock assessment workflows, in alignment of the [NOAA Fisheries Open Science initiative](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries).
 
-In some cases, you don't want your website on the `gh-pages` branch. For example, if you are creating releases and you want the website pages archived in that release, then you won't want your website pages on the `gh-pages` branch.
+## Specific goals
 
-Here are the changes you need to make if you to avoid `gh-pages` branch.
+To accomplish those high-level goals, we are focused on achieving the following objectives:
 
-* At the top of `_quarto.yml` add the following:
-```
-project: 
-  type: website
-  output-dir: docs
-```
-* On GitHub under Settings > Pages set pages to be made from the `main` branch and the docs directory.
-* Make sure `docs` is not listed in `.gitignore`
-* Publish the site the first time locally using `quarto publish` from the terminal
-* Change the GitHub Action because you can't use `quarto publish gh-pages`. You'll need to push to the main branch yourself (in the GitHub Action)
-```
-on:
-  push:
-    branches: main
+1. Developing a workflow based on two R packages that create stock assessment templates and plots
 
-name: Render and Publish
+2. Facilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)
 
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+# History behind the workflows project
 
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2 
-        
-      - name: Set up R (needed for Rmd)
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Install packages (needed for Rmd)
-        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "jsonlite"))'
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          # To install LaTeX to build PDF book 
-          # tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
-      
-      - name: Render Quarto Project
-        uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
-
-      - name: Set up Git
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-
-      - name: Commit all changes and push
-        run: |
-          git add -A && git commit -m 'Build site' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
-```
+As described in one of [the project's foundational documents](https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0), NSAP members and the Senior Scientist for Stock Assessments recognized a need for "projects focused on streamlining data flows into assessments, production of assessment documents, and warehousing of assessment files. These areas [were] identified as large bottlenecks by assessment scientists across all regions". Addressing these areas was prioritized "to improve timeliness and throughput of stock assessments." The IRA-funded work on this theme complemented "planned projects in FY24 by the National Stock Assessment Program focused on automating data processing and development of tools to support workflow automation." Ultimately, improvements to assessment workflows were expected to "contribute to the transparency and reproducibility of NMFS’ assessment science and open science initiatives...".  
+A steering committee was created to guide the project. The committee was comprised of regional experts representing each Science Center and OST who had experience with workflow and reproducibility projects.
