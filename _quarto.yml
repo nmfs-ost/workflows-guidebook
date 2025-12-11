@@ -50,8 +50,9 @@ website:
       style: "docked"
       contents:
       - href: content/steering_committee/how.qmd
-      - href: content/steering/what.qmd
-      - href: content/steering/how.qmd
+      - href: content/steering_committee/what.qmd
+      - href: content/steering_committee/who.qmd
+      - href: content/steering_committee/when_where.qmd
 format:
   html:
     theme:
