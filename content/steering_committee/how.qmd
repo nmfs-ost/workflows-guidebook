@@ -39,3 +39,9 @@ When a member decides to step down from the steering committee, they are encoura
 
 
 ## Processes for getting involved
+
+Steering committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage steering committee members to contribute previous code that is adaptable to the project or through a "Pull Request" if they so choose.
+
+The workflows team is actively working on adding more opportunities for steering committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the [stockplotr issues page](https://github.com/nmfs-ost/stockplotr/issues) or  [asar issues page](https://github.com/nmfs-ost/asar/issues) for potential tasks if you are interested in contributing.
+
+
