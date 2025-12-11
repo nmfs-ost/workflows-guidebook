@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publishing – Workflows Guidebook</title>
+<title>Why – Workflows Guidebook</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -294,9 +294,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#turn-on-github-pages-for-your-repo" id="toc-turn-on-github-pages-for-your-repo" class="nav-link active" data-scroll-target="#turn-on-github-pages-for-your-repo">Turn on GitHub Pages for your repo</a></li>
-  <li><a href="#do-your-first-publish-to-gh-pages" id="toc-do-your-first-publish-to-gh-pages" class="nav-link" data-scroll-target="#do-your-first-publish-to-gh-pages">Do your first publish to <code>gh-pages</code></a></li>
-  <li><a href="#dont-like-using-gh-pages" id="toc-dont-like-using-gh-pages" class="nav-link" data-scroll-target="#dont-like-using-gh-pages">Don’t like using <code>gh-pages</code>?</a></li>
+  <li><a href="#purpose-of-this-guidebook" id="toc-purpose-of-this-guidebook" class="nav-link active" data-scroll-target="#purpose-of-this-guidebook">Purpose of this guidebook</a></li>
+  <li><a href="#project-vision" id="toc-project-vision" class="nav-link" data-scroll-target="#project-vision">Project vision</a>
+  <ul class="collapse">
+  <li><a href="#high-level-conceptual-goals" id="toc-high-level-conceptual-goals" class="nav-link" data-scroll-target="#high-level-conceptual-goals">High-level, conceptual goals</a></li>
+  <li><a href="#specific-goals" id="toc-specific-goals" class="nav-link" data-scroll-target="#specific-goals">Specific goals</a></li>
+  </ul></li>
+  <li><a href="#history-behind-the-workflows-project" id="toc-history-behind-the-workflows-project" class="nav-link" data-scroll-target="#history-behind-the-workflows-project">History behind the workflows project</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/workflows-guidebook/edit/main/content/why.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/workflows-guidebook/blob/main/content/why.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/workflows-guidebook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -306,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/why.html">Why</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Publishing</h1>
+<h1 class="title">Why</h1>
 </div>
 
 
@@ -323,90 +327,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>To get your Quarto webpage to show up with the url</p>
-<pre><code>yourname.github.io/yourrepo</code></pre>
-<p>you have a few steps.</p>
-<section id="turn-on-github-pages-for-your-repo" class="level2">
-<h2 class="anchored" data-anchor-id="turn-on-github-pages-for-your-repo">Turn on GitHub Pages for your repo</h2>
-<ul>
-<li>Turn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.</li>
-<li>Turn on GitHub Actions under Settings &gt; Actions &gt; General</li>
-</ul>
-<p>The GitHub Action will automatically recreate your website when you push to GitHub <strong>after</strong> you do the initial <code>gh-pages</code> set-up</p>
+<section id="purpose-of-this-guidebook" class="level1">
+<h1>Purpose of this guidebook</h1>
+<p>We developed this guidebook for multiple reasons.</p>
+<p>First, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.</p>
+<p>Secondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.</p>
 </section>
-<section id="do-your-first-publish-to-gh-pages" class="level2">
-<h2 class="anchored" data-anchor-id="do-your-first-publish-to-gh-pages">Do your first publish to <code>gh-pages</code></h2>
-<p>The first time you publish to <code>gh-pages</code>, you need to do so locally.</p>
-<ul>
-<li>On your local computer, open a terminal window and <code>cd</code> to your repo directory. Here is what that <code>cd</code> command looks like for me. You command will look different because your local repo will be somewhere else on your computer.</li>
-</ul>
-<pre><code>cd ~/Documents/GitHub/NOAA-quarto-simple</code></pre>
-<ul>
-<li>Publish to the <code>gh-pages</code>. In the terminal type</li>
-</ul>
-<pre><code>quarto publish gh-pages</code></pre>
-<p>This is going to render your webpage and then push the <code>_site</code> contents to the <code>gh-pages</code> branch.</p>
+<section id="project-vision" class="level1">
+<h1>Project vision</h1>
+<p>We have several goals outlined for the Workflows project.</p>
+<section id="high-level-conceptual-goals" class="level2">
+<h2 class="anchored" data-anchor-id="high-level-conceptual-goals">High-level, conceptual goals</h2>
+<p>In one of <a href="https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0">the project’s first documents</a> (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to <strong>“…take advantage of recent advances in technology and improve overall assessment processes”</strong>. In alignment with the <a href="https://spo.nmfs.noaa.gov/sites/default/files/TM183.pdf">2018 Next Generation Stock Assessment Improvement Plan</a>, our project aims to <strong>improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise</strong>: <em>throughput</em> (the number of assessments that can be produced); <em>timeliness</em> (the speed of assessment processes and assessment product delivery), and <em>transparency</em> (the accessibility of assessment results). Adoption of the project’s products should also <strong>“contribute to better service and improved trust with [NSAP’s] partners and stakeholders”</strong>.</p>
+<p>In parallel with these goals, we expect the workflow to <strong>decrease the amount of time and effort spent completing tasks manually</strong>, when they could be completed in a semi-automated fashion. This outcome should <strong>increase reproducibility and transparency</strong> in stock assessment workflows, in alignment of the <a href="https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries">NOAA Fisheries Open Science initiative</a>.</p>
 </section>
-<section id="dont-like-using-gh-pages" class="level2">
-<h2 class="anchored" data-anchor-id="dont-like-using-gh-pages">Don’t like using <code>gh-pages</code>?</h2>
-<p>In some cases, you don’t want your website on the <code>gh-pages</code> branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the <code>gh-pages</code> branch.</p>
-<p>Here are the changes you need to make if you to avoid <code>gh-pages</code> branch.</p>
-<ul>
-<li>At the top of <code>_quarto.yml</code> add the following:</li>
-</ul>
-<pre><code>project: 
-  type: website
-  output-dir: docs</code></pre>
-<ul>
-<li>On GitHub under Settings &gt; Pages set pages to be made from the <code>main</code> branch and the docs directory.</li>
-<li>Make sure <code>docs</code> is not listed in <code>.gitignore</code></li>
-<li>Publish the site the first time locally using <code>quarto publish</code> from the terminal</li>
-<li>Change the GitHub Action because you can’t use <code>quarto publish gh-pages</code>. You’ll need to push to the main branch yourself (in the GitHub Action)</li>
-</ul>
-<pre><code>on:
-  push:
-    branches: main
-
-name: Render and Publish
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2 
-        
-      - name: Set up R (needed for Rmd)
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Install packages (needed for Rmd)
-        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "jsonlite"))'
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          # To install LaTeX to build PDF book 
-          # tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
-      
-      - name: Render Quarto Project
-        uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
-
-      - name: Set up Git
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-
-      - name: Commit all changes and push
-        run: |
-          git add -A &amp;&amp; git commit -m 'Build site' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"</code></pre>
+<section id="specific-goals" class="level2">
+<h2 class="anchored" data-anchor-id="specific-goals">Specific goals</h2>
+<p>To accomplish those high-level goals, we are focused on achieving the following objectives:</p>
+<ol type="1">
+<li><p>Developing a workflow based on two R packages that create stock assessment templates and plots</p></li>
+<li><p>Facilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)</p></li>
+</ol>
+</section>
+</section>
+<section id="history-behind-the-workflows-project" class="level1">
+<h1>History behind the workflows project</h1>
+<p>As described in one of <a href="https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0">the project’s foundational documents</a>, NSAP members and the Senior Scientist for Stock Assessments recognized a need for “projects focused on streamlining data flows into assessments, production of assessment documents, and warehousing of assessment files. These areas [were] identified as large bottlenecks by assessment scientists across all regions”. Addressing these areas was prioritized “to improve timeliness and throughput of stock assessments.” The IRA-funded work on this theme complemented “planned projects in FY24 by the National Stock Assessment Program focused on automating data processing and development of tools to support workflow automation.” Ultimately, improvements to assessment workflows were expected to “contribute to the transparency and reproducibility of NMFS’ assessment science and open science initiatives…”.<br>
+A steering committee was created to guide the project. The committee was comprised of regional experts representing each Science Center and OST who had experience with workflow and reproducibility projects.</p>
 
 
 </section>

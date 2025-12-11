@@ -51,47 +51,7 @@
     "href": "content/steering_committee/when_where.html",
     "title": "When & Where",
     "section": "",
-    "text": "The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions.",
-    "crumbs": [
-      "When and where do they meet?"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/when_where.html#meeting-schedule-and-communication",
-    "href": "content/steering_committee/when_where.html#meeting-schedule-and-communication",
-    "title": "When & Where",
-    "section": "",
-    "text": "The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions.",
-    "crumbs": [
-      "When and where do they meet?"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/when_where.html#meeting-planning",
-    "href": "content/steering_committee/when_where.html#meeting-planning",
-    "title": "When & Where",
-    "section": "Meeting Planning",
-    "text": "Meeting Planning\nMeeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\nThe agenda and notes can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team).",
-    "crumbs": [
-      "When and where do they meet?"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/when_where.html#feedback-deadlines",
-    "href": "content/steering_committee/when_where.html#feedback-deadlines",
-    "title": "When & Where",
-    "section": "Feedback Deadlines",
-    "text": "Feedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.",
-    "crumbs": [
-      "When and where do they meet?"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/when_where.html#tools-and-resources",
-    "href": "content/steering_committee/when_where.html#tools-and-resources",
-    "title": "When & Where",
-    "section": "Tools and Resources",
-    "text": "Tools and Resources\n\nasar repo\nstockplotr repo\nWorkflows GitHub team\nGoogle chat space\nGitHub discussions for public and open discussion on releases, questions, and specific topics",
+    "text": "Meeting Schedule and Communication\nThe workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\nThe agenda and notes can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team).\n\n\nFeedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.\n\n\nTools and Resources\n\nasar repo\nstockplotr repo\nWorkflows GitHub team\nGoogle chat space\nGitHub discussions for public and open discussion on releases, questions, and specific topics",
     "crumbs": [
       "When and where do they meet?"
     ]
@@ -99,39 +59,29 @@
   {
     "objectID": "content/why.html",
     "href": "content/why.html",
-    "title": "Publishing",
+    "title": "Why",
     "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps.",
+    "text": "We developed this guidebook for multiple reasons.\nFirst, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.\nSecondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.",
     "crumbs": [
       "Why"
     ]
   },
   {
-    "objectID": "content/why.html#turn-on-github-pages-for-your-repo",
-    "href": "content/why.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up",
+    "objectID": "content/why.html#high-level-conceptual-goals",
+    "href": "content/why.html#high-level-conceptual-goals",
+    "title": "Why",
+    "section": "High-level, conceptual goals",
+    "text": "High-level, conceptual goals\nIn one of the project’s first documents (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to “…take advantage of recent advances in technology and improve overall assessment processes”. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products should also “contribute to better service and improved trust with [NSAP’s] partners and stakeholders”.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
     "crumbs": [
       "Why"
     ]
   },
   {
-    "objectID": "content/why.html#do-your-first-publish-to-gh-pages",
-    "href": "content/why.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch.",
-    "crumbs": [
-      "Why"
-    ]
-  },
-  {
-    "objectID": "content/why.html#dont-like-using-gh-pages",
-    "href": "content/why.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\"",
+    "objectID": "content/why.html#specific-goals",
+    "href": "content/why.html#specific-goals",
+    "title": "Why",
+    "section": "Specific goals",
+    "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and plots\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
     "crumbs": [
       "Why"
     ]
