@@ -16,17 +16,23 @@ Occasionally, a request to discuss a topic from an outside party may arise and, 
 
 Steering committee members are encouraged to preview the agenda or add their own topics when the need arises.
 
-The agenda and notes can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) 
-(viewable and editable by the steering committee and internal NOAA HQ team).
+The agenda and notes can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) (viewable and editable by the steering committee and internal NOAA HQ team).
 
 # Feedback Deadlines
 
 When review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.
 
+# Annual Meeting
+
+Each year, we will hold a meeting to review:
+
+1.  Committee [membership](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html#sec-membership). We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.
+2.  This guidebook. We will ask the committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.
+
 # Tools and Resources
 
-- [asar repo](https://github.com/nmfs-ost/asar)
-- [stockplotr repo](https://github.com/nmfs-ost/stockplotr)
-- [Workflows GitHub team](https://github.com/orgs/nmfs-ost/teams/asar-collaborators)
-- [Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
-- GitHub discussions for public and open discussion on releases, questions, and specific topics
+-   [asar repo](https://github.com/nmfs-ost/asar)
+-   [stockplotr repo](https://github.com/nmfs-ost/stockplotr)
+-   [Workflows GitHub team](https://github.com/orgs/nmfs-ost/teams/asar-collaborators)
+-   [Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
+-   GitHub discussions for public and open discussion on releases, questions, and specific topics
