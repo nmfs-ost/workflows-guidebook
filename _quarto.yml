@@ -16,8 +16,6 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    # logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
-    # favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
@@ -33,8 +31,8 @@ website:
     contents:
     - href: index.qmd
       text: Home
-    - title: "Team"
-      style: "docked"
+    - section: "Team"
+      # style: "docked"
       contents:
       - href: content/team/who.qmd
         text: Who
@@ -46,8 +44,8 @@ website:
         text: Where
       - href: content/why.qmd
         text: Why
-    - title: "Steering Committee"
-      style: "docked"
+    - section: "Steering Committee"
+      # style: "docked"
       contents:
       - href: content/steering_committee/how.qmd
         text: How is the Steering Committee run?
