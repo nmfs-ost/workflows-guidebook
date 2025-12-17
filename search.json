@@ -13,6 +13,7 @@
     "section": "",
     "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting.",
     "crumbs": [
+      "Steering Committee",
       "What is their role?"
     ]
   },
@@ -23,6 +24,7 @@
     "section": "",
     "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting.",
     "crumbs": [
+      "Steering Committee",
       "What is their role?"
     ]
   },
@@ -33,6 +35,7 @@
     "section": "Meeting Notes",
     "text": "Meeting Notes\nMeeting notes from previous steering committee meetings can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance.",
     "crumbs": [
+      "Steering Committee",
       "What is their role?"
     ]
   },
@@ -43,6 +46,7 @@
     "section": "Additional Documents",
     "text": "Additional Documents\nOver time, we have utilized Google docs to organize and draft important documents for the steering committee including:\n\nProposed outline for a fisheries stock assessment report template\nProposed tables and figures\nDraft guidelines for a stock assessment report\nand more found within the steering committee implementation plans folder\n\nEach of these documents contains key processes that each steering committee member participated in and helped rationalize decisions made throughout the development of the project. New members are encouraged to review these documents to gain a deeper understanding of the committee’s work and contributions.",
     "crumbs": [
+      "Steering Committee",
       "What is their role?"
     ]
   },
@@ -53,6 +57,7 @@
     "section": "",
     "text": "Meeting Schedule and Communication\nThe workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\nThe agenda and notes can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team).\n\n\nFeedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.\n\n\nAnnual Meeting\nEach year, we will hold a meeting to review:\n\nCommittee membership. We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.\nThis guidebook. We will ask the committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.\n\n\n\nTools and Resources\n\nasar repo\nstockplotr repo\nWorkflows GitHub team\nGoogle chat space\nGitHub discussions for public and open discussion on releases, questions, and specific topics",
     "crumbs": [
+      "Steering Committee",
       "When and where do they meet?"
     ]
   },
@@ -63,6 +68,7 @@
     "section": "",
     "text": "We developed this guidebook for multiple reasons.\nFirst, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.\nSecondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.",
     "crumbs": [
+      "Team",
       "Why"
     ]
   },
@@ -73,6 +79,7 @@
     "section": "High-level, conceptual goals",
     "text": "High-level, conceptual goals\nIn one of the project’s first documents (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to “…take advantage of recent advances in technology and improve overall assessment processes”. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products should also “contribute to better service and improved trust with [NSAP’s] partners and stakeholders”.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
     "crumbs": [
+      "Team",
       "Why"
     ]
   },
@@ -83,6 +90,7 @@
     "section": "Specific goals",
     "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and plots\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
     "crumbs": [
+      "Team",
       "Why"
     ]
   },
@@ -93,6 +101,7 @@
     "section": "",
     "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
     "crumbs": [
+      "Team",
       "Where"
     ]
   },
@@ -103,6 +112,7 @@
     "section": "",
     "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
     "crumbs": [
+      "Team",
       "Where"
     ]
   },
@@ -113,6 +123,7 @@
     "section": "Examples",
     "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFay lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory.",
     "crumbs": [
+      "Team",
       "Where"
     ]
   },
@@ -123,25 +134,36 @@
     "section": "",
     "text": "Who\nCurrent and previous members of the workflows project team.\n\nname &lt;- c(\n  \"Sam Schiano\",\n  \"Sophie Breitbart\",\n  \"Steve Saul\",\n  \"Kathryn Doering\",\n  \"Bai Li\"\n  )\nrole &lt;- c(\n  \"Coordinator and developer\",\n  \"Developer\",\n  \"Research & Development\",\n  \"Coordinator\",\n  \"Developer and Coordinator\"\n)\nstatus &lt;- c(\n  \"Active\",\n  \"Active\", \n  \"Inactive\",\n  \"Inactive\",\n  \"Inactive\"\n)\ntime_zone &lt;- c(\n  \"Eastern Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\",\n  \"Mountain Time\",\n  \"Western Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\"\n)\ndescription &lt;- c(\n  \"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and steering committee.\",\n  \"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.\",\n  \"Steve...\",\n  \"Kathryn...\",\n  \"Bai...\"\n)\n\n# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly\ninfo_df &lt;- data.table::as.data.table(\n  data.frame(\n    \"Name\" = name,\n    \"Role\" = role,\n    \"Status\" = status,\n    \"Time Zone\" = time_zone,\n    \"Description\" = description\n  )\n)\n# library(gt)",
     "crumbs": [
+      "Team",
       "Who"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NOAA quarto simple with R",
+    "title": "Workflows Gudiebook",
     "section": "",
-    "text": "This is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to theme.scss. The webpage will be on the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nThe GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.",
+    "text": "We developed this guidebook for multiple reasons.\nFirst, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.\nSecondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#github-set-up",
-    "href": "index.html#github-set-up",
-    "title": "NOAA quarto simple with R",
-    "section": "GitHub Set-up",
-    "text": "GitHub Set-up\n\nClick the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nTurn on GitHub Actions under Settings &gt; Actions &gt; General \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.",
+    "objectID": "index.html#high-level-conceptual-goals",
+    "href": "index.html#high-level-conceptual-goals",
+    "title": "Workflows Gudiebook",
+    "section": "High-level, conceptual goals",
+    "text": "High-level, conceptual goals\nIn one of the project’s first documents (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to “…take advantage of recent advances in technology and improve overall assessment processes”. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products should also “contribute to better service and improved trust with [NSAP’s] partners and stakeholders”.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#specific-goals",
+    "href": "index.html#specific-goals",
+    "title": "Workflows Gudiebook",
+    "section": "Specific goals",
+    "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and plots\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
     "crumbs": [
       "Home"
     ]
@@ -153,6 +175,7 @@
     "section": "",
     "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
     "crumbs": [
+      "Team",
       "What"
     ]
   },
@@ -163,6 +186,7 @@
     "section": "",
     "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
     "crumbs": [
+      "Team",
       "What"
     ]
   },
@@ -173,6 +197,7 @@
     "section": "Add your pages the project",
     "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
     "crumbs": [
+      "Team",
       "What"
     ]
   },
@@ -183,6 +208,7 @@
     "section": "",
     "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
     "crumbs": [
+      "Team",
       "When"
     ]
   },
@@ -193,6 +219,7 @@
     "section": "Modify the GitHub Action",
     "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
     "crumbs": [
+      "Team",
       "When"
     ]
   },
@@ -203,6 +230,7 @@
     "section": "Render locally and publish to gh-pages branch",
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
     "crumbs": [
+      "Team",
       "When"
     ]
   },
@@ -220,6 +248,7 @@
     "section": "",
     "text": "The current members of the workflows steering committee are:\n\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.\n\n\nThe steering committee is joined by the current stock assessment workflows (?@sec-team-who) team which governs this group.",
     "crumbs": [
+      "Steering Committee",
       "Who is the steering committee?"
     ]
   },
@@ -230,6 +259,7 @@
     "section": "",
     "text": "The steering committee is joined by the current stock assessment workflows (?@sec-team-who) team which governs this group.",
     "crumbs": [
+      "Steering Committee",
       "Who is the steering committee?"
     ]
   },
@@ -240,6 +270,7 @@
     "section": "",
     "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to:\n\nAttend monthly virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the workflows team to identify and address any barriers to implementation\n\nPlease see Section 2.1 on what a steering committee is responsible to do when they are no longer able to serve the committee.",
     "crumbs": [
+      "Steering Committee",
       "How is the Steering Committee run?"
     ]
   },
@@ -250,6 +281,7 @@
     "section": "Membership",
     "text": "Membership\nSteering committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\n\nAn annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
     "crumbs": [
+      "Steering Committee",
       "How is the Steering Committee run?"
     ]
   },
@@ -260,6 +292,7 @@
     "section": "Code of Conduct",
     "text": "Code of Conduct",
     "crumbs": [
+      "Steering Committee",
       "How is the Steering Committee run?"
     ]
   },
@@ -270,6 +303,7 @@
     "section": "Processes for getting involved",
     "text": "Processes for getting involved\nSteering committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage steering committee members to contribute previous code that is adaptable to the project or through a “Pull Request” if they so choose.\nThe workflows team is actively working on adding more opportunities for steering committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the stockplotr issues page or asar issues page for potential tasks if you are interested in contributing.",
     "crumbs": [
+      "Steering Committee",
       "How is the Steering Committee run?"
     ]
   }
