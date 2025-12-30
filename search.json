@@ -286,7 +286,7 @@
     "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to:\n\nAttend monthly virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the workflows team to identify and address any barriers to implementation\n\nPlease see the membership page on what a steering committee is responsible to do when they are no longer able to serve the committee.",
     "crumbs": [
       "Steering Committee",
-      "Governance and Principle"
+      "Governance and Principles"
     ]
   },
   {
@@ -297,7 +297,7 @@
     "text": "Code of Conduct\n\nOur Pledge\nWe as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\nOur Standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\nThis Code of Conduct is an abbreviated version of the asar code of conduct, which was adapted from the [Contributor Covenant][homepage], version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.",
     "crumbs": [
       "Steering Committee",
-      "Governance and Principle"
+      "Governance and Principles"
     ]
   },
   {
@@ -308,7 +308,7 @@
     "text": "Processes for getting involved\nSteering committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage steering committee members to contribute previous code that is adaptable to the project or through a “Pull Request” if they so choose.\nThe workflows team is actively working on adding more opportunities for steering committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the stockplotr issues page or asar issues page for potential tasks if you are interested in contributing.",
     "crumbs": [
       "Steering Committee",
-      "Governance and Principle"
+      "Governance and Principles"
     ]
   }
 ]
