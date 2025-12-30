@@ -48,7 +48,7 @@ website:
       # style: "docked"
       contents:
       - href: content/steering_committee/how.qmd
-        text: Governance and Principle
+        text: Governance and Principles
       - href: content/steering_committee/what.qmd
         text: Resources
       - href: content/steering_committee/who.qmd
