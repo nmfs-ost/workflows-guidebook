@@ -22,19 +22,9 @@ One of the various ways to make decisions is through voting. The "voting chip" f
 
 The number of votes will often determine prioritization of tasks or features to be implemented. The workflows team lead will consider the votes and feedback from the steering committee when making final decisions. Finally, we aim to be transparent in our decision making and document the process through meeting notes.
 
-
-## Membership {#sec-membership}
-
-Steering committee members have the option to rotate off of the group given they provide a sufficient replacement  before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.
-
-<!-- thoughts on the below addition. might need to be in what instead -->
-An annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.
-
-When a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.
-
 ## Code of Conduct
 
-## Our Pledge
+### Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -44,7 +34,7 @@ identity and expression, level of experience, education, socio-economic status, 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-## Our Standards
+### Our Standards
 
 Examples of behavior that contributes to a positive environment for our
 community include:

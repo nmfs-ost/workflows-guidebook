@@ -1,10 +1,9 @@
----
-title: "Onboarding Checklist"
----
+Welcome! After reviewing the guidebook, please complete the following onboarding tasks:
 
-An onboarding checklist for new steering committee members.
-
-- [ ] Request access to google chat space
+- [ ] Request access to Google chat space
 - [ ] Check that you have been added to the monthly meetings
 - [ ] Review previous running notes
 - [ ] Review guidebook
+- [ ] Review [`asar`](https://github.com/nmfs-ost/asar) and [`stockplotr`](https://github.com/nmfs-ost/stockplotr) repositories
+
+ Feel free to reach out to any of the [current members of the team](../team/who.qmd) with any additional questions.

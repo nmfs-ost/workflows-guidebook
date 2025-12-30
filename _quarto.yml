@@ -48,13 +48,15 @@ website:
       # style: "docked"
       contents:
       - href: content/steering_committee/how.qmd
-        text: How is the Steering Committee run?
+        text: Governance and Principle
       - href: content/steering_committee/what.qmd
-        text: What is their role?
+        text: Resources
       - href: content/steering_committee/who.qmd
-        text: Who is the steering committee?
+        text: Membership
       - href: content/steering_committee/when_where.qmd
-        text: When and where do they meet?
+        text: Operations
+      - href: content/steering_committee/onboarding.qmd
+        text: Onboarding
 format:
   html:
     theme:
