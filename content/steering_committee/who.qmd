@@ -1,7 +1,3 @@
----
-title: "Who"
----
-
 # The Steering Committee
 
 The current members of the workflows steering committee are:
