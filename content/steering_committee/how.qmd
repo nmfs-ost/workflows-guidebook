@@ -10,7 +10,7 @@ The steering committee members are expected to:
 - Advocate for the adoption of reproducible workflows within their organizations
 - Collaborate with the workflows team to identify and address any barriers to implementation
 
-Please see @sec-membership on what a steering committee is responsible to do when they are no longer able to serve the committee.
+Please see [the membership page](../team/who.qmd#the-workflows-team) on what a steering committee is responsible to do when they are no longer able to serve the committee.
 
 # Governance
 
