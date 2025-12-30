@@ -22,6 +22,4 @@ Each member of the team was initially chosen for their historical involvement wi
 
 ## The Workflows Team
 
-The steering committee is joined by the [current stock assessment workflows](../team/who.qmd) (@sec-team-who) team which governs this group.
-
-
+The steering committee is joined by the [current stock assessment workflows team](../team/who.qmd) which governs this group.
