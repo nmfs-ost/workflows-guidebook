@@ -6,6 +6,8 @@ title: "When & Where"
 
 The workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.
 
+During meetings, steering committee members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e. thumbs up) or chat to add their input.
+
 Communication with the steering committee is made through email, Google chat space, and GitHub discussions.
 
 # Meeting Planning
