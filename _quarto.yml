@@ -57,6 +57,8 @@ website:
         text: Operations
       - href: content/steering_committee/onboarding.qmd
         text: Onboarding
+    - href: content/acknowledgements.qmd
+      text: Acknowledgements
 format:
   html:
     theme:

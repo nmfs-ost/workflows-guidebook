@@ -1,7 +1,3 @@
----
-title: Who
----
-
 # Who {#sec-team-who}
 
 Current and previous members of the workflows project team.

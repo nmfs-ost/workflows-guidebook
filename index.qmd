@@ -4,33 +4,14 @@ subtitle: "A reference document for teams associated with the stock assessment w
 page-layout: full
 ---
 
-# Purpose of this guidebook
+# Welcome!
 
-We developed this guidebook for multiple reasons.
+Welcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a [steering committee](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html).
 
-First, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.
+Please use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our steering committee.
 
-Secondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project's core members are contractors.
+::: {.callout-caution}
+The pages associated with the Workflows team are still under construction.
+:::
 
-# Project vision
-
-We have several goals outlined for the Workflows project.
-
-## High-level, conceptual goals
-
-In one of [the project's first documents](https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0) (see the "Assessment and Workflows" section), a broad goal of the Workflows project was to **"...take advantage of recent advances in technology and improve overall assessment processes"**. In alignment with the [2018 Next Generation Stock Assessment Improvement Plan](https://spo.nmfs.noaa.gov/sites/default/files/TM183.pdf), our project aims to **improve three of the "4Ts" of a timely, efficient, and effective stock assessment enterprise**: *throughput* (the number of assessments that can be produced); *timeliness* (the speed of assessment processes and assessment product delivery), and *transparency* (the accessibility of assessment results). Adoption of the project's products should also **"contribute to better service and improved trust with [NSAP's] partners and stakeholders"**.
-
-In parallel with these goals, we expect the workflow to **decrease the amount of time and effort spent completing tasks manually**, when they could be completed in a semi-automated fashion. This outcome should **increase reproducibility and transparency** in stock assessment workflows, in alignment of the [NOAA Fisheries Open Science initiative](https://www.fisheries.noaa.gov/science-data/open-science-noaa-fisheries).
-
-## Specific goals
-
-To accomplish those high-level goals, we are focused on achieving the following objectives:
-
-1. Developing a workflow based on two R packages that create stock assessment templates and plots
-
-2. Facilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)
-
-# History behind the workflows project
-
-As described in one of [the project's foundational documents](https://docs.google.com/document/d/1gh-UdZASlHCxPZq0tpDf-nx_Z_HTXa6sKySI9BpL3M0/edit?tab=t.0), NSAP members and the Senior Scientist for Stock Assessments recognized a need for "projects focused on streamlining data flows into assessments, production of assessment documents, and warehousing of assessment files. These areas [were] identified as large bottlenecks by assessment scientists across all regions". Addressing these areas was prioritized "to improve timeliness and throughput of stock assessments." The IRA-funded work on this theme complemented "planned projects in FY24 by the National Stock Assessment Program focused on automating data processing and development of tools to support workflow automation." Ultimately, improvements to assessment workflows were expected to "contribute to the transparency and reproducibility of NMFS’ assessment science and open science initiatives...".  
-A steering committee was created to guide the project. The committee was comprised of regional experts representing each Science Center and OST who had experience with workflow and reproducibility projects.
+<!-- Add some text about the overall project governance/structure once we finish the "Team" section -->
