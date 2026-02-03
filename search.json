@@ -81,7 +81,7 @@
     "href": "content/why.html#high-level-conceptual-goals",
     "title": "Why",
     "section": "High-level, conceptual goals",
-    "text": "High-level, conceptual goals\nIn one of the project’s first documents (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to “…take advantage of recent advances in technology and improve overall assessment processes”. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products should also “contribute to better service and improved trust with [NSAP’s] partners and stakeholders”.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
+    "text": "High-level, conceptual goals\nInitial project planning established that a broad goal of the Workflows project was to capitalize upon recent advances in technology and improve overall assessment processes. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products is also expected to improve service and trust with NSAP partners and stakeholders.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
     "crumbs": [
       "Team",
       "Why"
@@ -96,39 +96,6 @@
     "crumbs": [
       "Team",
       "Why"
-    ]
-  },
-  {
-    "objectID": "content/team/where.html",
-    "href": "content/team/where.html",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
-    "crumbs": [
-      "Team",
-      "Where"
-    ]
-  },
-  {
-    "objectID": "content/team/where.html#quarto-documentation",
-    "href": "content/team/where.html#quarto-documentation",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation.",
-    "crumbs": [
-      "Team",
-      "Where"
-    ]
-  },
-  {
-    "objectID": "content/team/where.html#examples",
-    "href": "content/team/where.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFay lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory.",
-    "crumbs": [
-      "Team",
-      "Where"
     ]
   },
   {
@@ -147,95 +114,9 @@
     "href": "index.html",
     "title": "Workflows Guidebook",
     "section": "",
-    "text": "We developed this guidebook for multiple reasons.\nFirst, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.\nSecondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.",
+    "text": "Welcome!\nWelcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a steering committee.\nPlease use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our steering committee.\n\n\n\n\n\n\nCaution\n\n\n\nThe pages associated with the Workflows team are still under construction.",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#high-level-conceptual-goals",
-    "href": "index.html#high-level-conceptual-goals",
-    "title": "Workflows Guidebook",
-    "section": "High-level, conceptual goals",
-    "text": "High-level, conceptual goals\nIn one of the project’s first documents (see the “Assessment and Workflows” section), a broad goal of the Workflows project was to “…take advantage of recent advances in technology and improve overall assessment processes”. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products should also “contribute to better service and improved trust with [NSAP’s] partners and stakeholders”.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#specific-goals",
-    "href": "index.html#specific-goals",
-    "title": "Workflows Guidebook",
-    "section": "Specific goals",
-    "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and plots\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/team/what.html",
-    "href": "content/team/what.html",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "Team",
-      "What"
-    ]
-  },
-  {
-    "objectID": "content/team/what.html#edit-and-add-your-pages",
-    "href": "content/team/what.html#edit-and-add-your-pages",
-    "title": "Customize",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nEach page should start with\n---\ntitle: your title\n---\nand the first header will be the 2nd level, so ##. Note, there are situations where you leave off\n---\ntitle: your title\n---\nand start the qmd file with a level header #, but if using the default title yaml (in the --- fence) is a good habit since it makes it easy for Quarto convert your qmd file to other formats (like into a presentation).",
-    "crumbs": [
-      "Team",
-      "What"
-    ]
-  },
-  {
-    "objectID": "content/team/what.html#add-your-pages-the-project",
-    "href": "content/team/what.html#add-your-pages-the-project",
-    "title": "Customize",
-    "section": "Add your pages the project",
-    "text": "Add your pages the project\n\nAdd the files to _quarto.yml",
-    "crumbs": [
-      "Team",
-      "What"
-    ]
-  },
-  {
-    "objectID": "content/team/when.html",
-    "href": "content/team/when.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326",
-    "crumbs": [
-      "Team",
-      "When"
-    ]
-  },
-  {
-    "objectID": "content/team/when.html#modify-the-github-action",
-    "href": "content/team/when.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it.",
-    "crumbs": [
-      "Team",
-      "When"
-    ]
-  },
-  {
-    "objectID": "content/team/when.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/team/when.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages",
-    "crumbs": [
-      "Team",
-      "When"
     ]
   },
   {
@@ -243,7 +124,10 @@
     "href": "content/acknowledgements.html",
     "title": "Acknowledgements",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
+    "crumbs": [
+      "Acknowledgements"
+    ]
   },
   {
     "objectID": "content/steering_committee/who.html",
@@ -283,7 +167,7 @@
     "href": "content/steering_committee/how.html",
     "title": "Role of the Steering Committee",
     "section": "",
-    "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to:\n\nAttend monthly virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the workflows team to identify and address any barriers to implementation\n\nPlease see the membership page on what a steering committee is responsible to do when they are no longer able to serve the committee.",
+    "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to:\n\nAttend monthly virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the workflows team to identify and address any barriers to implementation\n\nPlease see the membership page for information on what a steering committee member is responsible for doing when they are no longer able to serve the committee.",
     "crumbs": [
       "Steering Committee",
       "Governance and Principles"
