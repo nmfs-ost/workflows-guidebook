@@ -1,6 +1,6 @@
 ## Project Folder Navigation
 
-The project folder called "Steering Committee" can be found in your "Shared drives" folder in Google Drive. This folder contains important documents and resources related to the steering committee's activities, including meeting notes, agendas, and other relevant materials.
+The project folder called "Steering Committee" can be found in your "Shared drives" folder in Google Drive. This folder contains important documents and resources related to the Steering Committee's activities, including meeting notes, agendas, and other relevant materials.
 
 The following folders are the most relevant to review for new members:
 
@@ -9,23 +9,23 @@ The following folders are the most relevant to review for new members:
 - Implementation plans
 - Manuscripts
 
-Any new steering committee members are encouraged to review the content in this folder prior to their first meeting.
+New Steering Committee members are encouraged to review the content in this folder prior to their first meeting.
 
 ## Meeting Notes
 
-Meeting notes from previous steering committee meetings can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) 
-(viewable and editable by the steering committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.
+Meeting notes from previous Steering Committee meetings can be found in a living [Google document](https://docs.google.com/document/d/1z2qqoACJtE926DidgapLivb_grDxeT9vcoaox5pYG48/edit?tab=t.0#heading=h.22qfa5vlehbi) 
+(viewable and editable by the Steering Committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.
 
-Each meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance.
+Each meeting, a new section is added to the document with the date and agenda items discussed. Steering Committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the Workflows Team will set the agenda in these notes for each meeting and send any important materials in advance.
 
 ## Additional Documents
 
-Over time, we have utilized Google docs to organize and draft important documents for the steering committee including:
+Over time, we have utilized Google docs to organize and draft important documents for the Steering Committee including:
 
 - [Proposed outline for a fisheries stock assessment report template](https://docs.google.com/document/d/14g2HBawo1Fw940NevrTilK2dDQUnRe1-qpVyUoBE3Gk/edit?tab=t.0#heading=h.beswt11gvqni)
 - [Proposed tables and figures](https://docs.google.com/document/d/1VoYUAUp4uq4WiDp7sM4XEjPVNes7DqoGyf4alWSnFdg/edit?tab=t.0#heading=h.kkhzilkkf9cd)
 - [Draft guidelines for a stock assessment report](https://docs.google.com/document/d/1DfnAA7DIzPPyyx6Yz-TOOIvhOADbKXipwXT6lIPtcnU/edit?tab=t.0#heading=h.k9v3j6gdawm7)
-- and more found within the [steering committee implementation plans folder](https://drive.google.com/drive/folders/1RV41HzBYlmdTVKS8jM8KsVTeA7F0guvp)
+- and more found within the [Steering Committee implementation plans folder](https://drive.google.com/drive/folders/1RV41HzBYlmdTVKS8jM8KsVTeA7F0guvp)
 
-Each of these documents contains key processes that each steering committee member participated in and helped rationalize decisions made throughout the development of the project. New members are encouraged to review these documents to gain a deeper understanding of the committee's work and contributions.
+Each of these documents contains key processes that each Steering Committee member participated in and helped rationalize decisions made throughout the development of the project. New members are encouraged to review these documents to gain a deeper understanding of the committee's work and contributions.
 

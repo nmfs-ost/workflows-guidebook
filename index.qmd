@@ -6,9 +6,9 @@ page-layout: full
 
 # Welcome!
 
-Welcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a [steering committee](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html).
+Welcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a [Steering Committee](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html).
 
-Please use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our steering committee.
+Please use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our Steering Committee.
 
 ::: {.callout-caution}
 The pages associated with the Workflows team are still under construction.
