@@ -1,57 +1,12 @@
 [
   {
-    "objectID": "content/steering_committee/onboarding.html",
-    "href": "content/steering_committee/onboarding.html",
-    "title": "Workflows Guidebook",
+    "objectID": "content/acknowledgements.html",
+    "href": "content/acknowledgements.html",
+    "title": "Acknowledgements",
     "section": "",
-    "text": "Welcome! After reviewing the guidebook, please complete the following onboarding tasks:\n\nRequest access to Google chat space\nCheck that you have been added to the monthly meetings\nReview previous running notes\nReview guidebook\nReview asar and stockplotr repositories\n\nFeel free to reach out to any of the current members of the team with any additional questions.",
+    "text": "This repo and GitHub Action were based on the “quarto-website-tutorial” tutorial by Openscapes, by Julia Lowndes and Stefanie Butland.",
     "crumbs": [
-      "Steering Committee",
-      "Onboarding"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/what.html",
-    "href": "content/steering_committee/what.html",
-    "title": "Workflows Guidebook",
-    "section": "",
-    "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting.",
-    "crumbs": [
-      "Steering Committee",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/what.html#project-folder-navigation",
-    "href": "content/steering_committee/what.html#project-folder-navigation",
-    "title": "Workflows Guidebook",
-    "section": "",
-    "text": "The project folder called “Steering Committee” can be found in your “Shared drives” folder in Google Drive. This folder contains important documents and resources related to the steering committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders are the most relevant to review for new members:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\nAny new steering committee members are encouraged to review the content in this folder prior to their first meeting.",
-    "crumbs": [
-      "Steering Committee",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/what.html#meeting-notes",
-    "href": "content/steering_committee/what.html#meeting-notes",
-    "title": "Workflows Guidebook",
-    "section": "Meeting Notes",
-    "text": "Meeting Notes\nMeeting notes from previous steering committee meetings can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team). These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives. A member of the workflows team will set the agenda in these notes for each meeting and send any important materials in advance.",
-    "crumbs": [
-      "Steering Committee",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/what.html#additional-documents",
-    "href": "content/steering_committee/what.html#additional-documents",
-    "title": "Workflows Guidebook",
-    "section": "Additional Documents",
-    "text": "Additional Documents\nOver time, we have utilized Google docs to organize and draft important documents for the steering committee including:\n\nProposed outline for a fisheries stock assessment report template\nProposed tables and figures\nDraft guidelines for a stock assessment report\nand more found within the steering committee implementation plans folder\n\nEach of these documents contains key processes that each steering committee member participated in and helped rationalize decisions made throughout the development of the project. New members are encouraged to review these documents to gain a deeper understanding of the committee’s work and contributions.",
-    "crumbs": [
-      "Steering Committee",
-      "Resources"
+      "Acknowledgements"
     ]
   },
   {
@@ -59,10 +14,54 @@
     "href": "content/steering_committee/when_where.html",
     "title": "Meeting Schedule and Communication",
     "section": "",
-    "text": "Meeting Schedule and Communication\nThe workflows steering committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations and agendas are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nDuring meetings, steering committee members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e. thumbs up) or chat to add their input.\nCommunication with the steering committee is made through email, Google chat space, and GitHub discussions.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the workflows team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\nThe agenda and notes can be found in a living Google document (viewable and editable by the steering committee and internal NOAA HQ team).\n\n\nFeedback Deadlines\nWhen review or feedback is request on the project for the steering committee, a 2-4 week deadline is typically given to provide ample time for review and consideration.\n\n\nAnnual Meeting\nEach year, we will hold a meeting to review:\n\nCommittee membership. We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.\nThis guidebook. We will ask the committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.\n\n\n\nTools and Resources\n\nasar repo\nstockplotr repo\nWorkflows GitHub team\nGoogle chat space\nGitHub discussions for public and open discussion on releases, questions, and specific topics",
+    "text": "Meeting Schedule and Communication\nThe Steering Committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations, agendas, and notes, and any other important materials are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nDuring meetings, Steering Committee members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e., thumbs up) or chat to add their input.\nCommunication with the Steering Committee is made through email, Google chat space and GitHub discussions for {asar} and {stockplotr}.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the Workflows Team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\n\n\nFeedback Deadlines\nWhen review or feedback is request on the project for the Steering Committee, a 2–4 week deadline is typically given to provide ample time for review and consideration.\n\n\nAnnual Meeting\nEach year, we will hold a meeting to review:\n\nSteering Committee membership. We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.\nThis guidebook. We will ask the Steering Committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.\n\n\n\nImportant Links\n\n{asar} repo\n{stockplotr} repo\nWorkflows Team GitHub\nGoogle chat space\nGitHub discussions (for {asar} and {stockplotr}) for public and open discussion on releases, questions, and specific topics",
     "crumbs": [
       "Steering Committee",
       "Operations"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html",
+    "href": "content/steering_committee/how.html",
+    "title": "Role of the Steering Committee",
+    "section": "",
+    "text": "The Steering Committee serves as an advisory group to provide strategic guidance, feedback, and expertise on workflows related to stock assessment at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries Science Centers and offices.\nThe Steering Committee members are expected to:\n\nAttend monthly, virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the Workflows Team to identify and address any barriers to implementation\n\nPlease see the membership section for information on what a Steering Committee member is responsible for doing when they are no longer able to serve on the committee.",
+    "crumbs": [
+      "Steering Committee",
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html#code-of-conduct",
+    "href": "content/steering_committee/how.html#code-of-conduct",
+    "title": "Role of the Steering Committee",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\n\nOur Pledge\nWe as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\nOur Standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\nThis Code of Conduct is an abbreviated version of the {asar} code of conduct, which was adapted from the Contributor Covenant, version 2.1.",
+    "crumbs": [
+      "Steering Committee",
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/how.html#processes-for-getting-involved",
+    "href": "content/steering_committee/how.html#processes-for-getting-involved",
+    "title": "Role of the Steering Committee",
+    "section": "Processes for getting involved",
+    "text": "Processes for getting involved\nSteering Committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage Steering Committee members to contribute previous code that is adaptable to the project or through a pull request if they so choose.\nThe Workflows Team is actively working on adding more opportunities for Steering Committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the {stockplotr} issues page or {asar} issues page for potential tasks, and our contributions guide, if you are interested in contributing.",
+    "crumbs": [
+      "Steering Committee",
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/team/who.html",
+    "href": "content/team/who.html",
+    "title": "Who",
+    "section": "",
+    "text": "Who\nCurrent and previous members of the Workflows Team.\n\nname &lt;- c(\n  \"Sam Schiano\",\n  \"Sophie Breitbart\",\n  \"Steve Saul\",\n  \"Kathryn Doering\",\n  \"Bai Li\"\n  )\nrole &lt;- c(\n  \"Coordinator and developer\",\n  \"Developer\",\n  \"Research & Development\",\n  \"Coordinator\",\n  \"Developer and Coordinator\"\n)\nstatus &lt;- c(\n  \"Active\",\n  \"Active\", \n  \"Inactive\",\n  \"Inactive\",\n  \"Inactive\"\n)\ntime_zone &lt;- c(\n  \"Eastern Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\",\n  \"Mountain Time\",\n  \"Western Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\"\n)\ndescription &lt;- c(\n  \"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee.\",\n  \"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.\",\n  \"Steve...\",\n  \"Kathryn...\",\n  \"Bai...\"\n)\n\n# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly\ninfo_df &lt;- data.table::as.data.table(\n  data.frame(\n    \"Name\" = name,\n    \"Role\" = role,\n    \"Status\" = status,\n    \"Time Zone\" = time_zone,\n    \"Description\" = description\n  )\n)\n# library(gt)",
+    "crumbs": [
+      "Team",
+      "Who"
     ]
   },
   {
@@ -81,7 +80,7 @@
     "href": "content/why.html#high-level-conceptual-goals",
     "title": "Why",
     "section": "High-level, conceptual goals",
-    "text": "High-level, conceptual goals\nInitial project planning established that a broad goal of the Workflows project was to capitalize upon recent advances in technology and improve overall assessment processes. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products is also expected to improve service and trust with NSAP partners and stakeholders.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
+    "text": "High-level, conceptual goals\nInitial project planning established that a broad goal of the Workflows project was to capitalize upon recent advances in technology and improve overall assessment processes. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products is also expected to improve service and trust with National Stock Assessment Program partners and stakeholders.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
     "crumbs": [
       "Team",
       "Why"
@@ -92,21 +91,10 @@
     "href": "content/why.html#specific-goals",
     "title": "Why",
     "section": "Specific goals",
-    "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and plots\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
+    "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and media used within them\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
     "crumbs": [
       "Team",
       "Why"
-    ]
-  },
-  {
-    "objectID": "content/team/who.html",
-    "href": "content/team/who.html",
-    "title": "Who",
-    "section": "",
-    "text": "Who\nCurrent and previous members of the workflows project team.\n\nname &lt;- c(\n  \"Sam Schiano\",\n  \"Sophie Breitbart\",\n  \"Steve Saul\",\n  \"Kathryn Doering\",\n  \"Bai Li\"\n  )\nrole &lt;- c(\n  \"Coordinator and developer\",\n  \"Developer\",\n  \"Research & Development\",\n  \"Coordinator\",\n  \"Developer and Coordinator\"\n)\nstatus &lt;- c(\n  \"Active\",\n  \"Active\", \n  \"Inactive\",\n  \"Inactive\",\n  \"Inactive\"\n)\ntime_zone &lt;- c(\n  \"Eastern Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\",\n  \"Mountain Time\",\n  \"Western Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\"\n)\ndescription &lt;- c(\n  \"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and steering committee.\",\n  \"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.\",\n  \"Steve...\",\n  \"Kathryn...\",\n  \"Bai...\"\n)\n\n# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly\ninfo_df &lt;- data.table::as.data.table(\n  data.frame(\n    \"Name\" = name,\n    \"Role\" = role,\n    \"Status\" = status,\n    \"Time Zone\" = time_zone,\n    \"Description\" = description\n  )\n)\n# library(gt)",
-    "crumbs": [
-      "Team",
-      "Who"
     ]
   },
   {
@@ -114,19 +102,53 @@
     "href": "index.html",
     "title": "Workflows Guidebook",
     "section": "",
-    "text": "Welcome!\nWelcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a steering committee.\nPlease use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our steering committee.\n\n\n\n\n\n\nCaution\n\n\n\nThe pages associated with the Workflows team are still under construction.",
+    "text": "Welcome!\nWelcome to the Workflows Guidebook! This document outlines key information about the Workflows team and our main project: developing tools that facilitate the stock assessment reporting process. We are located within the National Stock Assessment Program (NSAP) and are guided by a Steering Committee.\nPlease use the links on the sidebar (left) to navigate this website and learn about the Workflows team and our Steering Committee.\n\n\n\n\n\n\nCaution\n\n\n\nThe pages associated with the Workflows team are still under construction.",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgements",
+    "objectID": "content/steering_committee/what.html",
+    "href": "content/steering_committee/what.html",
+    "title": "Project Folder Navigation",
     "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland.",
+    "text": "Project Folder Navigation\nThe “Steering Committee” project folder can be found in your “Shared Drives” folder in Google Drive. This folder contains important documents and resources related to the Steering Committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders contain the most relevant resources:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\n\n\nMeeting Notes\nMeeting notes from previous Steering Committee meetings are editable by the Steering Committee and internal NOAA HQ team. These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering Committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives.\n\n\nAdditional Documents\nOver time, we have utilized Google docs to organize and draft important documents for the Steering Committee. These documents record the key processes and decisions made by the Steering Committee during the project’s development.\n\nProposed outline for a fisheries stock assessment report template\nProposed tables and figures\nDraft guidelines for a stock assessment report",
     "crumbs": [
-      "Acknowledgements"
+      "Steering Committee",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/onboarding.html",
+    "href": "content/steering_committee/onboarding.html",
+    "title": "Onboarding Checklist",
+    "section": "",
+    "text": "Welcome! After reviewing the guidebook, please complete the following onboarding tasks. Feel free to reach out to any of the current Workflows Team members with any additional questions.\n\n\n\nRequest access to Google chat space\nCheck that you have been added to the Google calendar’s monthly meeting event\nReview this guidebook\nReview the documents linked in the “Resources” page’s “Meeting Notes” and “Additional Documents” sections.\nReview the items in the “Operations” page’s “Important Links” section\n\n\n\n\n\nReview the folders linked in the “Resources” page’s “Project Folder Navigation” section",
+    "crumbs": [
+      "Steering Committee",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/onboarding.html#essential-tasks",
+    "href": "content/steering_committee/onboarding.html#essential-tasks",
+    "title": "Onboarding Checklist",
+    "section": "",
+    "text": "Request access to Google chat space\nCheck that you have been added to the Google calendar’s monthly meeting event\nReview this guidebook\nReview the documents linked in the “Resources” page’s “Meeting Notes” and “Additional Documents” sections.\nReview the items in the “Operations” page’s “Important Links” section",
+    "crumbs": [
+      "Steering Committee",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/onboarding.html#optional-but-encouraged-tasks",
+    "href": "content/steering_committee/onboarding.html#optional-but-encouraged-tasks",
+    "title": "Onboarding Checklist",
+    "section": "",
+    "text": "Review the folders linked in the “Resources” page’s “Project Folder Navigation” section",
+    "crumbs": [
+      "Steering Committee",
+      "Onboarding"
     ]
   },
   {
@@ -134,7 +156,7 @@
     "href": "content/steering_committee/who.html",
     "title": "The Steering Committee",
     "section": "",
-    "text": "The current members of the workflows steering committee are:\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.\n\n\nThe steering committee is joined by the current stock assessment workflows team which governs this group.\n\n\n\nSteering committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "text": "The current members of the Steering Committee are:\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with the development of a reproducible workflow for their respective region and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from NOAA Fisheries Science Centers and offices.\n\n\nThe Steering Committee is joined by the current stock assessment Workflows Team which governs this group.\n\n\n\nSteering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
     "crumbs": [
       "Steering Committee",
       "Membership"
@@ -145,7 +167,7 @@
     "href": "content/steering_committee/who.html#the-workflows-team",
     "title": "The Steering Committee",
     "section": "",
-    "text": "The steering committee is joined by the current stock assessment workflows team which governs this group.",
+    "text": "The Steering Committee is joined by the current stock assessment Workflows Team which governs this group.",
     "crumbs": [
       "Steering Committee",
       "Membership"
@@ -156,43 +178,10 @@
     "href": "content/steering_committee/who.html#sec-membership",
     "title": "The Steering Committee",
     "section": "",
-    "text": "Steering committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "text": "Steering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
     "crumbs": [
       "Steering Committee",
       "Membership"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/how.html",
-    "href": "content/steering_committee/how.html",
-    "title": "Role of the Steering Committee",
-    "section": "",
-    "text": "The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee’s primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.\nThe steering committee members are expected to:\n\nAttend monthly virtual meetings to discuss project updates, challenges, and opportunities\nReview and provide feedback on project plans, documentation, and deliverables\nShare insights and best practices from their respective regions and areas of expertise\nAdvocate for the adoption of reproducible workflows within their organizations\nCollaborate with the workflows team to identify and address any barriers to implementation\n\nPlease see the membership page for information on what a steering committee member is responsible for doing when they are no longer able to serve the committee.",
-    "crumbs": [
-      "Steering Committee",
-      "Governance and Principles"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/how.html#code-of-conduct",
-    "href": "content/steering_committee/how.html#code-of-conduct",
-    "title": "Role of the Steering Committee",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\n\nOur Pledge\nWe as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\nOur Standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\nThis Code of Conduct is an abbreviated version of the asar code of conduct, which was adapted from the [Contributor Covenant][homepage], version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.",
-    "crumbs": [
-      "Steering Committee",
-      "Governance and Principles"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/how.html#processes-for-getting-involved",
-    "href": "content/steering_committee/how.html#processes-for-getting-involved",
-    "title": "Role of the Steering Committee",
-    "section": "Processes for getting involved",
-    "text": "Processes for getting involved\nSteering committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage steering committee members to contribute previous code that is adaptable to the project or through a “Pull Request” if they so choose.\nThe workflows team is actively working on adding more opportunities for steering committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the stockplotr issues page or asar issues page for potential tasks if you are interested in contributing.",
-    "crumbs": [
-      "Steering Committee",
-      "Governance and Principles"
     ]
   }
 ]
