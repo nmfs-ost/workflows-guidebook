@@ -1,49 +1,43 @@
 # Role of the Steering Committee
 
-The workflows steering committee serves as an advisory group to provide strategic guidance, feedback, and expertise on stock assessment workflows at NOAA Fisheries. The committee's primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries science centers and offices.
+The Steering Committee serves as an advisory group to provide strategic guidance, feedback, and expertise on workflows related to stock assessment at NOAA Fisheries. The committee's primary role is to ensure that the development and implementation of reproducible workflows align with the needs and priorities of NOAA Fisheries Science Centers and offices.
 
-The steering committee members are expected to:
+The Steering Committee members are expected to:
 
-- Attend monthly virtual meetings to discuss project updates, challenges, and opportunities
+- Attend monthly, virtual meetings to discuss project updates, challenges, and opportunities
 - Review and provide feedback on project plans, documentation, and deliverables
 - Share insights and best practices from their respective regions and areas of expertise
 - Advocate for the adoption of reproducible workflows within their organizations
-- Collaborate with the workflows team to identify and address any barriers to implementation
+- Collaborate with the Workflows Team to identify and address any barriers to implementation
 
-Please see [the membership page](../steering_committee/who.qmd#membership) for information on what a steering committee member is responsible for doing when they are no longer able to serve the committee.
+Please see [the membership section](../steering_committee/who.qmd#membership) for information on what a Steering Committee member is responsible for doing when they are no longer able to serve on the committee.
 
 # Governance
 
-In this guidebook, we want to explicitly define our governance structure in order to reduce issues in power imbalances, establish consistent decision-making processes, and  establish clear roles and accountability for both the steering committee and workflows team.
+In this guidebook, we want to explicitly define our governance structure to reduce issues in power imbalances, establish consistent decision-making processes, and  establish clear roles and accountability for both the Steering Committee and Workflows Team.
 
-We operate under a mix of benevolent dictator and consensus governance models where a consensus involves a series of voting with majority or all in agreement upon decisions on major development milestones and the direction of the project. While this governance style considers the input of all members of the steering committee, it can often be slow and result in decision paralysis. To mitigate this, the workflows team lead holds the final decision-making authority, allowing for more efficient progress while still valuing the contributions of the steering committee. This is why we have established an mix of benevolent dictator and consensus governance models. The benevolent dictator will make final decisions on behalf of the team and ensure progress is made in a timely manner.
+We operate under a mix of "benevolent dictator" and consensus governance models, where a consensus involves a series of voting with majority or all in agreement upon decisions on major development milestones and the direction of the project. While this governance style considers the input of all members of the Steering Committee, it can often be slow and result in decision paralysis. To mitigate this, the Workflows Team Lead holds the final decision-making authority, allowing for more efficient progress while still valuing the contributions of the Steering Committee. This is why we have established an mix of benevolent dictator and consensus governance models. The benevolent dictator will make final decisions on behalf of the team and ensure progress is made in a timely manner.
 
-One of the various ways to make decisions is through voting. The "voting chip" feature found in Google docs is used often to provide a count in support or against a particular decision. An organizer can add voting chips into any Google doc through either typing "@vote" then selecting an option in the drop down or clicking on "Insert" in the top menu, then "Smart chips", and finally "Vote".
+One of the various ways to make decisions is through voting. The "voting chip" feature found in Google docs is used often to provide a count in support or against a particular decision. An organizer can add voting chips into any Google Doc through either typing "@vote" then selecting an option in the drop down or clicking on "Insert" in the top menu, then "Smart chips", and finally "Vote".
 
-The number of votes will often determine prioritization of tasks or features to be implemented. The workflows team lead will consider the votes and feedback from the steering committee when making final decisions. Finally, we aim to be transparent in our decision making and document the process through meeting notes.
+The number of votes will often determine prioritization of tasks or features to be implemented. The Workflows Team Lead will consider the votes and feedback from the Steering Committee when making final decisions. Finally, we aim to be transparent in our decision making and document the process through meeting notes.
 
 ## Code of Conduct
 
 ### Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ### Our Standards
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Examples of behavior that contributes to a positive environment for our community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
 * Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behavior include:
@@ -52,18 +46,13 @@ Examples of unacceptable behavior include:
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-This Code of Conduct is an abbreviated version of [the `asar` code of conduct](https://github.com/nmfs-ost/asar/blob/main/CODE_OF_CONDUCT.md), which was adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-<https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>.
+This Code of Conduct is an abbreviated version of [the {asar} code of conduct](https://github.com/nmfs-ost/asar/blob/main/CODE_OF_CONDUCT.md), which was adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), version 2.1.
 
 
 ## Processes for getting involved
 
-Steering committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage steering committee members to contribute previous code that is adaptable to the project or through a "Pull Request" if they so choose.
+Steering Committee members are encouraged to actively participate in discussions, provide feedback, and contribute to the development of reproducible workflows. Members can get involved by attending meetings, reviewing project materials, and engaging in discussions through email or GitHub. We also encourage Steering Committee members to contribute previous code that is adaptable to the project or through a pull request if they so choose.
 
-The workflows team is actively working on adding more opportunities for steering committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the [stockplotr issues page](https://github.com/nmfs-ost/stockplotr/issues) or  [asar issues page](https://github.com/nmfs-ost/asar/issues) for potential tasks if you are interested in contributing.
-
-
+The Workflows Team is actively working on adding more opportunities for Steering Committee members to get involved in the project through the use of detailed and actionable GitHub issues on the repositories page. Please see the [{stockplotr} issues page](https://github.com/nmfs-ost/stockplotr/issues) or [{asar} issues page](https://github.com/nmfs-ost/asar/issues) for potential tasks, and our [contributions guide](https://github.com/nmfs-ost/asar/blob/main/CONTRIBUTING.md), if you are interested in contributing.

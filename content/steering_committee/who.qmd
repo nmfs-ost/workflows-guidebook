@@ -1,6 +1,6 @@
 # The Steering Committee
 
-The current members of the workflows steering committee are:
+The current members of the Steering Committee are:
 
 ::: {style="text-align: center;"}
 Ben Williams (AFSC)  
@@ -14,16 +14,16 @@ Michelle Sculley (PIFSC)
 Kelli Johnson (HQ OST)
 :::
 
-Each member of the team was initially chosen for their historical involvement with reproducible workflow development for their respective regions and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from different NOAA Fisheries science centers and offices.
+Each member of the team was initially chosen for their historical involvement with the development of a reproducible workflow for their respective region and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from NOAA Fisheries Science Centers and offices.
 
 ## The Workflows Team
 
-The steering committee is joined by the [current stock assessment workflows team](../team/who.qmd) which governs this group.
+The Steering Committee is joined by the [current stock assessment Workflows Team](../team/who.qmd) which governs this group.
 
 ## Membership {#sec-membership}
 
-Steering committee members have the option to rotate off of the group given they provide a sufficient replacement  before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.
+Steering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.
 
-An annual review is will be conducted to provide opportunity for the steering committee to evaluate their membership and discuss any potential changes. This review will also allow the workflows team to assess the effectiveness of the committee and make adjustments as needed.
+An annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.
 
-When a member decides to step down from the steering committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.
+When a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.
