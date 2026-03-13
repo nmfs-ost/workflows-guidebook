@@ -1,9 +1,13 @@
-Welcome! After reviewing the guidebook, please complete the following onboarding tasks:
+# Onboarding Checklist
 
-- [ ] Request access to Google chat space
-- [ ] Check that you have been added to the monthly meetings
-- [ ] Review previous running notes
-- [ ] Review guidebook
-- [ ] Review [`asar`](https://github.com/nmfs-ost/asar) and [`stockplotr`](https://github.com/nmfs-ost/stockplotr) repositories
+Welcome! After reviewing the guidebook, please complete the following onboarding tasks. Feel free to reach out to any of the [current Workflows Team members](../team/who.qmd) with any additional questions.
 
- Feel free to reach out to any of the [current members of the team](../team/who.qmd) with any additional questions.
+## Essential Tasks
+- [ ] Request access to [Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
+- [ ] Check that you have been added to the Google calendar's monthly meeting event
+- [ ] Review this guidebook
+- [ ] Review the documents linked in the "Resources" page's ["Meeting Notes"](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/what.html#meeting-notes) and ["Additional Documents"](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/what.html#additional-documents) sections.
+- [ ] Review the items in the "Operations" page's ["Important Links" section](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/when_where.html#important-links)
+
+## Optional (but Encouraged) Tasks
+- [ ] Review the folders linked in the "Resources" page's ["Project Folder Navigation"](https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/what.html#project-folder-navigation) section
