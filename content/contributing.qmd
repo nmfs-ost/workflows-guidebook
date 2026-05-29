@@ -1,0 +1,34 @@
+---
+title: "Contributing"
+---
+
+# Ideas and feedback welcomed here!
+
+Do you have an idea that would improve this guidebook? Consider making a contribution! We welcome ideas for improving any other material associated with this guidebook.
+
+::: {.callout-tip}
+## `asar` and `stockplotr`
+Please read our Contributing guides for [`asar`](https://github.com/nmfs-ost/asar?tab=contributing-ov-file) and [`stockplotr`](https://github.com/nmfs-ost/stockplotr?tab=contributing-ov-file) if you'd like to contribute to those packages.
+:::
+
+# Recommended workflow: fork & submit a pull request
+
+The most efficient way to contribute an idea is to fork this repo, make your suggested changes on a local branch, and then submit a pull request to the main branch. 
+This will allow the developers to easily evaluate your suggested changes. 
+Please see the [GitHub Docs' "Contributing to a project" page](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for step-by-step guidance in using this workflow.
+
+# Recommended practices
+
+-   Write clear, succinct commit messages ([see some tips here](https://opensource.com/article/22/12/git-commit-message))
+-   Limit a commit to a few, rather than many, changes. Smaller commits means more commit messages, which is often helpful for documentation.
+-   Ensure your base branch is correct. We merge all branches into main.
+-   Test that your contributed code will function as expected under different circumstances.
+-   Add comments to the code if it's not immediately clear what the purpose of the code is, or how it works.
+
+# Contributing bugs
+
+Found a bug? Tell us about it on our [Issues page](https://github.com/nmfs-ost/workflows-guidebook/issues). If possible, please submit a reproducible example ([reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html)) to help us understand the problem better and, ideally, allow us to reproduce your issue.
+
+# Ask if you need help!
+
+If you're unsure about how to contribute, just ask [us](team/who.qmd) for help. We'd be more than happy to guide you.
