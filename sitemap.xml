@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/acknowledgements.html</loc>
-    <lastmod>2026-03-13T18:03:41.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/when_where.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/who.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/where.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/index.html</loc>
+    <lastmod>2026-05-29T18:52:23.292Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-ost.github.io/workflows-guidebook/content/why.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/index.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/what.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/when.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/what.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
+    <lastmod>2026-05-29T18:52:23.292Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/onboarding.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/who.html</loc>
-    <lastmod>2026-03-13T18:03:41.721Z</lastmod>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/when.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/who.html</loc>
+    <lastmod>2026-05-29T18:52:23.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/acknowledgements.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/where.html</loc>
+    <lastmod>2026-05-29T18:52:23.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/team/what.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/how.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/what.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/steering_committee/when_where.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-ost.github.io/workflows-guidebook/content/contributing.html</loc>
+    <lastmod>2026-05-29T18:52:23.291Z</lastmod>
   </url>
 </urlset>
