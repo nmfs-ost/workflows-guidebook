@@ -38,12 +38,12 @@ website:
         text: Who
       - href: content/team/what.qmd
         text: What
-      - href: content/team/when.qmd
-        text: When
-      - href: content/team/where.qmd
-        text: Where
+      - href: content/team/when_where.qmd
+        text: When and Where
       - href: content/why.qmd
         text: Why
+      - href: content/how.qmd
+        text: How
     - section: "Steering Committee"
       # style: "docked"
       contents:

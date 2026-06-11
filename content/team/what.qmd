@@ -1,1 +1,52 @@
-<!-- #TODO: include information about the relationship between the SC and the Workflows development Team within NSAP. That’s a pretty big piece of the governance, in that the SC provides strategic guidance, but the work is carried out/implemented by a Workflows Team within OST Assessment Branch. -->
+-information about the relationship between the SC and the Workflows development Team within NSAP. That’s a pretty big piece of the governance, in that the SC provides strategic guidance, but the work is carried out/implemented by a Workflows Team within OST Assessment Branch.
+
+# Project Folder Navigation
+
+Explain what's in these Gdrive folders:
+
+- scoping folder
+- cheatsheets
+- communication
+- POC interviews
+- manuscripts
+
+-one-pager
+
+Don't review:
+- reference documents
+- pre-project scoping
+
+# GitHub projects
+
+-asar and stockplotr projects
+
+# Other repos
+
+-workshop
+-a11y sandbox
+-asar tutorial
+-region_spp_stock_assessment repo
+
+# Meeting Notes
+
+
+# Other resources
+
+-a11y bookmarks
+-tagpdf repo and its issues
+-NSASSS talks about the project
+
+## Resources for related projects that we manage
+
+-fishdictionary
+-regional cheers for peers
+
+# (put this somewhere else?) tools
+
+-mentimeter
+-liberating structures
+-easyretro
+
+# future / project expansion
+
+-reference new attention to streamlining entire SA workflow, from data to FIMS to asar/stockplotr to SIS

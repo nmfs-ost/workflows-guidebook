@@ -1,0 +1,15 @@
+- How we create PRs, review them/provide feedback, don't merge unless tests pass, etc.
+-versioning guide
+
+-Annual planning: how we use GH projects, revisit them, assign tasks, add target dates and milestones, etc.
+
+-we can set up extra meetings beyond coworking if we need to work on a bug, etc.
+
+-gchat frequently, email for other things (like asking for review on a google doc)
+
+-we ask each other for review on emails to many recipients, abstract submissions, papers, other important docs that would be reviewed outside the team
+
+-check in with related groups: SIS, NSAP, FIMS, surveys team reps
+
+-plan out agenda for SC during coworking meeting week before SC mtg
+
