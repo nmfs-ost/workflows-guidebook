@@ -1,10 +1,34 @@
--weekly coworking
--weekly office hours (2 hrs/week; Monday is open Q&A; Wed is for coworking (with public) and Q&A)
--monthly meetings with FIMS lead
--monthly meetings with NOAA project advisor (currently FIMS lead)
--monthly SC mtgs (link to page)
--meetings every 3 weeks with the client to share updates and get feedback
--quarterly meetings with surveys reps (fishery independent AND dependent surveys reps)
+# Meeting Schedule and Communication
 
+The Workflows Team ("team") meets virtually to discuss a variety of topics:
 
-where: virtual!
+- Weekly meeting and co-working: Tuesdays, 10:00 AM-12:00 PM Eastern Time.
+  - [Meeting agendas and notes](https://docs.google.com/document/d/11icxwyBN6jEQO9PuyqKx4xL2gMIPSbUdjCGxOrNRbXM/edit?usp=sharing)
+  - We use this time to discuss progress, blockers, and other topics that arise, as well as cowork on tasks.
+- Weekly office hours: Mondays, 4:00-5:00PM; Wednesdays, 2:00-3:00PM Eastern Time.
+  - We offer individualized help to anyone using `{asar}` or `{stockplotr}` during these times. If no one needs assistance on Wednesdays, we will use that time to cowork on the project, with the intention of showing community members how tools like `{asar}` and `{stockplotr}` are developed.
+- Monthly meetings with FIMS lead: Thursdays, 10:00-11:00AM Eastern Time.
+  - The Workflows team lead meets with the FIMS team lead to discuss topics that overlap with both projects in an attempt to keep each other informed about progress and align project plans and priorities.
+- Monthly meetings with a NOAA project advisor: Mondays, 3:00-4:00PM Eastern Time.
+  - These meetings provide a space for team members to discuss ideas and receive guidance on anything related to the Workflows project, including software engineering, collaboration, and communication within NOAA Fisheries. Currently, the FIMS lead is also the NOAA project advisor.
+- Monthly [Steering Committee meetings](../steering_committee/when_where.qmd); Tuesdays, 3:30-4:30PM Eastern Time.
+- Meetings every 3 weeks with the client
+  - These meetings are a time for individual team members to share updates and get feedback from the client. Currently, these meetings involve the Acting Assessment Branch Director.
+- Quarterly meetings with surveys representatives
+  - The team meets with fishery-independent and fishery-dependent survey representatives to discuss data that is used in stock assessment reports and improve workflows involving data flows into assessments.
+
+During meetings with more than two people, team members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e., thumbs up) or chat to add their input.
+
+Outside of meetings, team communication primarily occurs through Google chat and email.
+
+# Meeting Planning
+
+Meeting topics are continually added to the weekly meeting agenda. Team members are encouraged to preview the agenda and add their own topics as necessary.
+
+# Important Links
+
+- [{asar} repo](https://github.com/nmfs-ost/asar)
+- [{stockplotr} repo](https://github.com/nmfs-ost/stockplotr)
+- [Workflows Team GitHub](https://github.com/orgs/nmfs-ost/teams/asar-collaborators)
+- [Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
+- GitHub discussions (for [{asar}](https://github.com/nmfs-ost/asar/discussions) and [{stockplotr}](https://github.com/nmfs-ost/stockplotr/discussions)) for public and open discussion on releases, questions, and specific topics
