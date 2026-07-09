@@ -1,7 +1,3 @@
----
-title: "Contributing"
----
-
 # Ideas and feedback welcomed here!
 
 Do you have an idea that would improve this guidebook? Consider making a contribution! We welcome ideas for improving any other material associated with this guidebook.
