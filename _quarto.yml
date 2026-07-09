@@ -34,16 +34,16 @@ website:
     - section: "Team"
       # style: "docked"
       contents:
-      - href: content/team/who.qmd
-        text: Who
-      - href: content/team/what.qmd
-        text: What
-      - href: content/team/when_where.qmd
-        text: When and Where
       - href: content/why.qmd
-        text: Why
-      - href: content/how.qmd
-        text: How
+        text: Introduction
+      - href: content/team/who.qmd
+        text: Workflows Team
+      - href: content/team/how.qmd
+        text: How We Work
+      - href: content/team/what.qmd
+        text: Governance and Principles
+      - href: content/team/when_where.qmd
+        text: Operations
     - section: "Steering Committee"
       # style: "docked"
       contents:
