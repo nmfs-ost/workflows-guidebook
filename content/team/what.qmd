@@ -1,52 +1,58 @@
--information about the relationship between the SC and the Workflows development Team within NSAP. That’s a pretty big piece of the governance, in that the SC provides strategic guidance, but the work is carried out/implemented by a Workflows Team within OST Assessment Branch.
-
 # Project Folder Navigation
 
-Explain what's in these Gdrive folders:
+The ["Automated Stock Assessment Workflow" project folder](https://drive.google.com/drive/folders/1Hls-4La8Jp0CUJfMPGtbAyo2PUfwmzgD) can be found in your "Shared Drives" folder in Google Drive. This folder contains important documents and resources related to the Workflow Team's activities, including meeting notes, reference documents, and other relevant materials. You will obtain access to this folder once you request it during the onboarding process.
 
-- scoping folder
-- cheatsheets
-- communication
-- POC interviews
-- manuscripts
+The following folders contain the most relevant resources:
 
--one-pager
+- Scoping: A variety of subfolders with material related to workshops, information about report tables and figures, standard naming conventions, and more.
+- Cheatsheets: Materials needed to make {asar} and {stockplotr} cheatsheets along with the current versions of the cheatsheets.
+- Communication: Materials related to communication with stakeholders and collaborators, as well as the one-pager.
+- POC interviews: Notes from interviews held with FSC (Fisheries Science Center) representatives from across the agency when the project was in its early stages (2024).
+- Manuscripts: Materials associated with manuscripts that are being written about the project.
 
-Don't review:
-- reference documents
-- pre-project scoping
+# GitHub Project Management
 
-# GitHub projects
+- GitHub projects help us stay on top of short-term and long-term tasks for [{asar}](https://github.com/orgs/nmfs-ost/projects/44/views/4) and [{stockplotr}](https://github.com/orgs/nmfs-ost/projects/44/views/4).
+- Similarly, GitHub milestones help us (and higher-level leadership) gauge progress for [{asar}](https://github.com/nmfs-ost/asar/milestones) and [{stockplotr}](https://github.com/nmfs-ost/stockplotr/milestones). We create new milestones in 6-12 month cycles.
 
--asar and stockplotr projects
+# Other Important GitHub Repositories
 
-# Other repos
+- [workflows-workshop](https://github.com/nmfs-ost/workflows-workshop): Repo for the 2026 workshop series presented to each fishery science center
+- [a11y-sandbox](https://github.com/Schiano-NOAA/a11y-sandbox/): Repo for testing and recording accessibility features relevant to reports, figures, and tables
+- [asar-demo](https://github.com/nmfs-ost/asar-demo): Repo for tutorial on creating a stock assessment report with {asar} and {stockplotr}
+- [region_spp_stock_assessment](https://github.com/nmfs-ost/region_spp_stock_assessment): Template repository to organize and standardize files created in the stock assessment workflow
 
--workshop
--a11y sandbox
--asar tutorial
--region_spp_stock_assessment repo
+# Other Project Resources
 
-# Meeting Notes
+## Accessibility
 
+- [Section 508 Compliance: Quick Start Guide: 508 Compliance For NOAA IR Submissions](https://library.noaa.gov/Section508/QuickStart)
+- Tagging PDFs with `asar` relies on the `tagpdf` LaTeX package. The following are useful resources from the LaTeX Tagging Project:
+  - [Tagging Status of LaTeX Packages and Classes](https://latex3.github.io/tagging-project/tagging-status/).   This page is very important for tracking which contributed packages are working, which conflict with one another, and more.
+  - [Documentation](https://latex3.github.io/tagging-project/documentation/)
+  - [Example of a well-tagged PDF from LaTeX](https://latex3.github.io/tagging-project/documentation/wtpdf/larger-example).
+  - [Tagging Project issues](https://github.com/latex3/tagging-project/issues)
+  - [`tagpdf` issues](https://github.com/latex3/tagpdf/issues)
+  - [Tagging Project discussions about issues with accessibility checker software](https://github.com/latex3/tagging-project/discussions/categories/issues-with-accessibility-checkers-and-other-at-software)
+- Quarto's [2026 blog post](https://opensource.posit.co/blog/2026-03-05_pdf-accessibility-and-standards/) about the accessibility features in Quarto v1.9
+- [veraPDF accessible PDF-checking tool demo](https://demo.verapdf.org/)
 
-# Other resources
+## Presentations
 
--a11y bookmarks
--tagpdf repo and its issues
--NSASSS talks about the project
+- Sam's 2024 National Stock Assessment Seminar Series (NSASSS) talk: [Learning and Improving upon Stock Assessment Workflows across the U.S.A.](https://www.youtube.com/watch?v=Q8XJTTkjcts&list=PLpb5LINL0Ys9ke3CtJmkQByXu9qb_YkX0&index=19)
+- Sophie's 2026 NSASSS talk: [Increasing the Accessibility of NOAA Fisheries Stock Assessment Reports](https://www.youtube.com/watch?v=26n5aPc8eZw&list=PLpb5LINL0Ys9ke3CtJmkQByXu9qb_YkX0&index=2)
 
-## Resources for related projects that we manage
+## Affiliated Project Resources
 
--fishdictionary
--regional cheers for peers
+- [fishdictionary](https://github.com/nmfs-ost/fishdictionary): Repository for the FishDictionary, a tool aimed at providing a standardized, shared language for terms used in stock assessment reports.
+- Regional Cheers for Peers: Google apps script, spreadsheet, form, and email address associated with program aimed at boosting morale and building community across regions by recognizing community collaboration and achievement. The first three resources are associated with Sam Bredeck's Google account; the latter is associated with a separate Google account.
 
-# (put this somewhere else?) tools
+# Useful Tools
 
--mentimeter
--liberating structures
--easyretro
+- [Mentimeter](https://www.mentimeter.com/): A tool for creating interactive presentations and gathering real-time feedback from participants. Used during 2026 workshops to elicit opinions about {asar} and {stockplotr} before and after the workshop.
+- [Liberating Structures](https://www.liberatingstructures.com/): A collection of facilitation techniques designed to foster engagement and collaboration in group settings.
+- [Easyretro](https://easyretro.io/): A tool we've used to obtain feedback from workshop participants. Can be used for other purposes too.
 
-# future / project expansion
+# Project Expansion/Future Directions
 
--reference new attention to streamlining entire SA workflow, from data to FIMS to asar/stockplotr to SIS
+- As of 2026, we have begun a new initiative: developing a cloud-based, streamlined stock assessment workflow. This involves building a cloud-based pipeline that connects the steps from data processing to FIMS to {asar}/{stockplotr} to SIS.

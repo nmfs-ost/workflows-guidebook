@@ -1,7 +1,3 @@
----
-title: "Why"
----
-
 # Purpose of this guidebook
 
 We developed this guidebook for multiple reasons.
@@ -32,4 +28,4 @@ To accomplish those high-level goals, we are focused on achieving the following 
 
 The stock assessment community within NOAA recognized a need for projects focused on **streamlining data workflows into assessments, assessment document production, and assessment file storage**. These topics were recognized by assessment scientists across all regions as areas with large capacity for efficiency improvements and were prioritized to improve stock assessment timeliness and throughput. The IRA-funded work on this theme complemented planned projects in FY24 by the National Stock Assessment Program focused on automating data processing and tool development that would support workflow automation. Ultimately, improvements to assessment workflows are expected to increase transparency and reproducibility of NOAA Fisheries' assessment science and enhance open science initiatives.
 
-A Steering Committee was created to guide the project. The committee was comprised of regional experts representing each Science Center and OST who had experience with workflow and reproducibility projects.
+A Steering Committee was created to guide the project. The committee was comprised of regional experts representing each Science Center and OST who had experience with workflow and reproducibility projects. The committee provides strategic guidance about how to improve stock assessment workflows, and the work is carried out the [Workflows Team](team/who.qmd).

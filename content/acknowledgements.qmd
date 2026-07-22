@@ -1,5 +1,3 @@
----
-title: "Acknowledgements"
----
+# Acknowledgements
 
 This repo and GitHub Action were based on the ["quarto-website-tutorial" tutorial by Openscapes](https://github.com/Openscapes/quarto-website-tutorial), by Julia Lowndes and Stefanie Butland.
