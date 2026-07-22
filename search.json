@@ -10,22 +10,14 @@
     ]
   },
   {
-    "objectID": "content/team/when_where.html",
-    "href": "content/team/when_where.html",
-    "title": "Workflows Guidebook",
+    "objectID": "content/contributing.html",
+    "href": "content/contributing.html",
+    "title": "Ideas and feedback welcomed here!",
     "section": "",
-    "text": "-weekly coworking -weekly office hours (2 hrs/week; Monday is open Q&A; Wed is for coworking (with public) and Q&A) -monthly meetings with FIMS lead -monthly meetings with NOAA project advisor (currently FIMS lead) -monthly SC mtgs (link to page) -meetings every 3 weeks with the client to share updates and get feedback -quarterly meetings with surveys reps (fishery independent AND dependent surveys reps)\nwhere: virtual!",
+    "text": "Ideas and feedback welcomed here!\nDo you have an idea that would improve this guidebook? Consider making a contribution! We welcome ideas for improving any other material associated with this guidebook.\n\n\n\n\n\n\nTipasar and stockplotr\n\n\n\nPlease read our Contributing guides for asar and stockplotr if you’d like to contribute to those packages.\n\n\n\n\nRecommended workflow: fork & submit a pull request\nThe most efficient way to contribute an idea is to fork this repo, make your suggested changes on a local branch, and then submit a pull request to the main branch. This will allow the developers to easily evaluate your suggested changes. Please see the GitHub Docs’ “Contributing to a project” page for step-by-step guidance in using this workflow.\n\n\nRecommended practices\n\nWrite clear, succinct commit messages (see some tips here)\nLimit a commit to a few, rather than many, changes. Smaller commits means more commit messages, which is often helpful for documentation.\nEnsure your base branch is correct. We merge all branches into main.\nTest that your contributed code will function as expected under different circumstances.\nAdd comments to the code if it’s not immediately clear what the purpose of the code is, or how it works.\n\n\n\nContributing bugs\nFound a bug? Tell us about it on our Issues page. If possible, please submit a reproducible example (reprex) to help us understand the problem better and, ideally, allow us to reproduce your issue.\n\n\nAsk if you need help!\nIf you’re unsure about how to contribute, just ask us for help. We’d be more than happy to guide you.",
     "crumbs": [
-      "Team",
-      "When and Where"
+      "Contributing"
     ]
-  },
-  {
-    "objectID": "content/team/how.html",
-    "href": "content/team/how.html",
-    "title": "Workflows Guidebook",
-    "section": "",
-    "text": "How we create PRs, review them/provide feedback, don’t merge unless tests pass, etc. -versioning guide\n\n-Annual planning: how we use GH projects, revisit them, assign tasks, add target dates and milestones, etc.\n-we can set up extra meetings beyond coworking if we need to work on a bug, etc.\n-gchat frequently, email for other things (like asking for review on a google doc)\n-we ask each other for review on emails to many recipients, abstract submissions, papers, other important docs that would be reviewed outside the team\n-check in with related groups: SIS, NSAP, FIMS, surveys team reps\n-plan out agenda for SC during coworking meeting week before SC mtg"
   },
   {
     "objectID": "content/steering_committee/onboarding.html",
@@ -58,70 +50,6 @@
     "crumbs": [
       "Steering Committee",
       "Onboarding"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/who.html",
-    "href": "content/steering_committee/who.html",
-    "title": "The Steering Committee",
-    "section": "",
-    "text": "The current members of the Steering Committee are:\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with the development of a reproducible workflow for their respective region and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from NOAA Fisheries Science Centers and offices.\n\n\nThe Steering Committee is joined by the current stock assessment Workflows Team which governs this group.\n\n\n\nSteering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
-    "crumbs": [
-      "Steering Committee",
-      "Membership"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/who.html#the-workflows-team",
-    "href": "content/steering_committee/who.html#the-workflows-team",
-    "title": "The Steering Committee",
-    "section": "",
-    "text": "The Steering Committee is joined by the current stock assessment Workflows Team which governs this group.",
-    "crumbs": [
-      "Steering Committee",
-      "Membership"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/who.html#sec-membership",
-    "href": "content/steering_committee/who.html#sec-membership",
-    "title": "The Steering Committee",
-    "section": "",
-    "text": "Steering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
-    "crumbs": [
-      "Steering Committee",
-      "Membership"
-    ]
-  },
-  {
-    "objectID": "content/steering_committee/what.html",
-    "href": "content/steering_committee/what.html",
-    "title": "Project Folder Navigation",
-    "section": "",
-    "text": "Project Folder Navigation\nThe “Steering Committee” project folder can be found in your “Shared Drives” folder in Google Drive. This folder contains important documents and resources related to the Steering Committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders contain the most relevant resources:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\n\n\nMeeting Notes\nMeeting notes from previous Steering Committee meetings are editable by the Steering Committee and internal NOAA HQ team. These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering Committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives.\n\n\nAdditional Documents\nOver time, we have utilized Google docs to organize and draft important documents for the Steering Committee. These documents record the key processes and decisions made by the Steering Committee during the project’s development.\n\nProposed outline for a fisheries stock assessment report template\nProposed tables and figures\nDraft guidelines for a stock assessment report",
-    "crumbs": [
-      "Steering Committee",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "content/acknowledgements.html",
-    "href": "content/acknowledgements.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "This repo and GitHub Action were based on the “quarto-website-tutorial” tutorial by Openscapes, by Julia Lowndes and Stefanie Butland.",
-    "crumbs": [
-      "Acknowledgements"
-    ]
-  },
-  {
-    "objectID": "content/contributing.html",
-    "href": "content/contributing.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "Ideas and feedback welcomed here!\nDo you have an idea that would improve this guidebook? Consider making a contribution! We welcome ideas for improving any other material associated with this guidebook.\n\n\n\n\n\n\nTipasar and stockplotr\n\n\n\nPlease read our Contributing guides for asar and stockplotr if you’d like to contribute to those packages.\n\n\n\n\nRecommended workflow: fork & submit a pull request\nThe most efficient way to contribute an idea is to fork this repo, make your suggested changes on a local branch, and then submit a pull request to the main branch. This will allow the developers to easily evaluate your suggested changes. Please see the GitHub Docs’ “Contributing to a project” page for step-by-step guidance in using this workflow.\n\n\nRecommended practices\n\nWrite clear, succinct commit messages (see some tips here)\nLimit a commit to a few, rather than many, changes. Smaller commits means more commit messages, which is often helpful for documentation.\nEnsure your base branch is correct. We merge all branches into main.\nTest that your contributed code will function as expected under different circumstances.\nAdd comments to the code if it’s not immediately clear what the purpose of the code is, or how it works.\n\n\n\nContributing bugs\nFound a bug? Tell us about it on our Issues page. If possible, please submit a reproducible example (reprex) to help us understand the problem better and, ideally, allow us to reproduce your issue.\n\n\nAsk if you need help!\nIf you’re unsure about how to contribute, just ask us for help. We’d be more than happy to guide you.",
-    "crumbs": [
-      "Contributing"
     ]
   },
   {
@@ -158,14 +86,13 @@
     ]
   },
   {
-    "objectID": "content/steering_committee/when_where.html",
-    "href": "content/steering_committee/when_where.html",
-    "title": "Meeting Schedule and Communication",
+    "objectID": "content/acknowledgements.html",
+    "href": "content/acknowledgements.html",
+    "title": "Acknowledgements",
     "section": "",
-    "text": "Meeting Schedule and Communication\nThe Steering Committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations, agendas, and notes, and any other important materials are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nDuring meetings, Steering Committee members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e., thumbs up) or chat to add their input.\nCommunication with the Steering Committee is made through email, Google chat space and GitHub discussions for {asar} and {stockplotr}.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the Workflows Team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\n\n\nFeedback Deadlines\nWhen review or feedback is request on the project for the Steering Committee, a 2–4 week deadline is typically given to provide ample time for review and consideration.\n\n\nAnnual Meeting\nEach year, we will hold a meeting to review:\n\nSteering Committee membership. We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.\nThis guidebook. We will ask the Steering Committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.\n\n\n\nImportant Links\n\n{asar} repo\n{stockplotr} repo\nWorkflows Team GitHub\nGoogle chat space\nGitHub discussions (for {asar} and {stockplotr}) for public and open discussion on releases, questions, and specific topics",
+    "text": "Acknowledgements\nThis repo and GitHub Action were based on the “quarto-website-tutorial” tutorial by Openscapes, by Julia Lowndes and Stefanie Butland.",
     "crumbs": [
-      "Steering Committee",
-      "Operations"
+      "Acknowledgements"
     ]
   },
   {
@@ -173,21 +100,65 @@
     "href": "content/team/what.html",
     "title": "Project Folder Navigation",
     "section": "",
-    "text": "-information about the relationship between the SC and the Workflows development Team within NSAP. That’s a pretty big piece of the governance, in that the SC provides strategic guidance, but the work is carried out/implemented by a Workflows Team within OST Assessment Branch.",
+    "text": "The “Automated Stock Assessment Workflow” project folder can be found in your “Shared Drives” folder in Google Drive. This folder contains important documents and resources related to the Workflow Team’s activities, including meeting notes, reference documents, and other relevant materials. You will obtain access to this folder once you request it during the onboarding process.\nThe following folders contain the most relevant resources:\n\nScoping: A variety of subfolders with material related to workshops, information about report tables and figures, standard naming conventions, and more.\nCheatsheets: Materials needed to make {asar} and {stockplotr} cheatsheets along with the current versions of the cheatsheets.\nCommunication: Materials related to communication with stakeholders and collaborators, as well as the one-pager.\nPOC interviews: Notes from interviews held with FSC (Fisheries Science Center) representatives from across the agency when the project was in its early stages (2024).\nManuscripts: Materials associated with manuscripts that are being written about the project.",
     "crumbs": [
       "Team",
-      "What"
+      "Governance and Principles"
     ]
   },
   {
-    "objectID": "content/team/what.html#resources-for-related-projects-that-we-manage",
-    "href": "content/team/what.html#resources-for-related-projects-that-we-manage",
+    "objectID": "content/team/what.html#accessibility",
+    "href": "content/team/what.html#accessibility",
     "title": "Project Folder Navigation",
-    "section": "Resources for related projects that we manage",
-    "text": "Resources for related projects that we manage\n-fishdictionary -regional cheers for peers",
+    "section": "Accessibility",
+    "text": "Accessibility\n\nSection 508 Compliance: Quick Start Guide: 508 Compliance For NOAA IR Submissions\nTagging PDFs with asar relies on the tagpdf LaTeX package. The following are useful resources from the LaTeX Tagging Project:\n\nTagging Status of LaTeX Packages and Classes. This page is very important for tracking which contributed packages are working, which conflict with one another, and more.\nDocumentation\nExample of a well-tagged PDF from LaTeX.\nTagging Project issues\ntagpdf issues\nTagging Project discussions about issues with accessibility checker software\n\nQuarto’s 2026 blog post about the accessibility features in Quarto v1.9\nveraPDF accessible PDF-checking tool demo",
     "crumbs": [
       "Team",
-      "What"
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/team/what.html#presentations",
+    "href": "content/team/what.html#presentations",
+    "title": "Project Folder Navigation",
+    "section": "Presentations",
+    "text": "Presentations\n\nSam’s 2024 National Stock Assessment Seminar Series (NSASSS) talk: Learning and Improving upon Stock Assessment Workflows across the U.S.A.\nSophie’s 2026 NSASSS talk: Increasing the Accessibility of NOAA Fisheries Stock Assessment Reports",
+    "crumbs": [
+      "Team",
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/team/what.html#affiliated-project-resources",
+    "href": "content/team/what.html#affiliated-project-resources",
+    "title": "Project Folder Navigation",
+    "section": "Affiliated Project Resources",
+    "text": "Affiliated Project Resources\n\nfishdictionary: Repository for the FishDictionary, a tool aimed at providing a standardized, shared language for terms used in stock assessment reports.\nRegional Cheers for Peers: Google apps script, spreadsheet, form, and email address associated with program aimed at boosting morale and building community across regions by recognizing community collaboration and achievement. The first three resources are associated with Sam Bredeck’s Google account; the latter is associated with a separate Google account.",
+    "crumbs": [
+      "Team",
+      "Governance and Principles"
+    ]
+  },
+  {
+    "objectID": "content/team/when_where.html",
+    "href": "content/team/when_where.html",
+    "title": "Meeting Schedule and Communication",
+    "section": "",
+    "text": "Meeting Schedule and Communication\nThe Workflows Team (“team”) meets virtually to discuss a variety of topics:\n\nWeekly meeting and co-working: Tuesdays, 10:00 AM-12:00 PM Eastern Time.\n\nMeeting agendas and notes\nWe use this time to discuss progress, blockers, and other topics that arise, as well as cowork on tasks.\n\nWeekly office hours: Mondays, 4:00-5:00PM; Wednesdays, 2:00-3:00PM Eastern Time.\n\nWe offer individualized help to anyone using {asar} or {stockplotr} during these times. If no one needs assistance on Wednesdays, we will use that time to cowork on the project, with the intention of showing community members how tools like {asar} and {stockplotr} are developed.\n\nMonthly meetings with FIMS lead: Thursdays, 10:00-11:00AM Eastern Time.\n\nThe Workflows team lead meets with the FIMS team lead to discuss topics that overlap with both projects in an attempt to keep each other informed about progress and align project plans and priorities.\n\nMonthly meetings with a NOAA project advisor: Mondays, 3:00-4:00PM Eastern Time.\n\nThese meetings provide a space for team members to discuss ideas and receive guidance on anything related to the Workflows project, including software engineering, collaboration, and communication within NOAA Fisheries. Currently, the FIMS lead is also the NOAA project advisor.\n\nMonthly Steering Committee meetings; Tuesdays, 3:30-4:30PM Eastern Time.\nMeetings every 3 weeks with the client\n\nThese meetings are a time for individual team members to share updates and get feedback from the client. Currently, these meetings involve the Acting Assessment Branch Director.\n\nQuarterly meetings with surveys representatives\n\nThe team meets with fishery-independent and fishery-dependent survey representatives to discuss data that is used in stock assessment reports and improve workflows involving data flows into assessments.\n\n\nDuring meetings with more than two people, team members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e., thumbs up) or chat to add their input.\nOutside of meetings, team communication primarily occurs through Google chat and email.\n\n\nMeeting Planning\nMeeting topics are continually added to the weekly meeting agenda. Team members are encouraged to preview the agenda and add their own topics as necessary.\n\n\nImportant Links\n\n{asar} repo\n{stockplotr} repo\nWorkflows Team GitHub\nSteering Committee Google chat space\nGitHub discussions (for {asar} and {stockplotr}) for public and open discussion on releases, questions, and specific topics",
+    "crumbs": [
+      "Team",
+      "Operations"
+    ]
+  },
+  {
+    "objectID": "content/team/how.html",
+    "href": "content/team/how.html",
+    "title": "Workflows Guidebook",
+    "section": "",
+    "text": "How we create PRs, review them/provide feedback, don’t merge unless tests pass, etc. -versioning guide\n\n-Annual planning: how we use GH projects, revisit them, assign tasks, add target dates and milestones, etc.\n-we can set up extra meetings beyond coworking if we need to work on a bug, etc.\n-gchat frequently, email for other things (like asking for review on a google doc)\n-we ask each other for review on emails to many recipients, abstract submissions, papers, other important docs that would be reviewed outside the team\n-check in with related groups: SIS, NSAP, FIMS, surveys team reps\n-plan out agenda for SC during coworking meeting week before SC mtg",
+    "crumbs": [
+      "Team",
+      "How We Work"
     ]
   },
   {
@@ -198,40 +169,95 @@
     "text": "Who\nCurrent and previous members of the Workflows Team.\n\nname &lt;- c(\n  \"Sam Schiano\",\n  \"Sophie Breitbart\",\n  \"Steve Saul\",\n  \"Kathryn Doering\",\n  \"Bai Li\"\n  )\nrole &lt;- c(\n  \"Coordinator and developer\",\n  \"Developer\",\n  \"Research & Development\",\n  \"Coordinator\",\n  \"Developer and Coordinator\"\n)\nstatus &lt;- c(\n  \"Active\",\n  \"Active\", \n  \"Inactive\",\n  \"Inactive\",\n  \"Inactive\"\n)\ntime_zone &lt;- c(\n  \"Eastern Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\",\n  \"Mountain Time\",\n  \"Western Time (US & Canada)\",\n  \"Eastern Time (US & Canada)\"\n)\ndescription &lt;- c(\n  \"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee.\",\n  \"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.\",\n  \"Steve...\",\n  \"Kathryn...\",\n  \"Bai...\"\n)\n\n# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly\ninfo_df &lt;- data.table::as.data.table(\n  data.frame(\n    \"Name\" = name,\n    \"Role\" = role,\n    \"Status\" = status,\n    \"Time Zone\" = time_zone,\n    \"Description\" = description\n  )\n)\n# library(gt)\n\n\n\nImportant collaborators / POCs\nBai- unit testing and google workstations Kathryn- Gh actions and FIT Tim Miller- WHAM Jeff V- SIS/StockSMART Grant Adams- Rceattle Kelli- FIMS Ian- SS3 and r4ss Derek Bolser- fishery-independent surveys Jon Peake & Eli- open science Lincoln Rehm- fishery-dependent surveys Evan Nightingale- OCIO",
     "crumbs": [
       "Team",
-      "Who"
+      "Workflows Team"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/when_where.html",
+    "href": "content/steering_committee/when_where.html",
+    "title": "Meeting Schedule and Communication",
+    "section": "",
+    "text": "Meeting Schedule and Communication\nThe Steering Committee meets virtually on the second Tuesday of each month at 3:30 PM Eastern Time. Meeting invitations, agendas, and notes, and any other important materials are sent out in advance to all committee members. Meetings are based on need, so it is not uncommon during the development process when no feedback is needed to cancel the meeting.\nDuring meetings, Steering Committee members are encouraged to use the raise hand feature to contribute to the discussion or utilize other Google meets features like reactions (i.e., thumbs up) or chat to add their input.\nCommunication with the Steering Committee is made through email, Google chat space and GitHub discussions for {asar} and {stockplotr}.\n\n\nMeeting Planning\nMeeting topics and agenda are planned up to one week in advance by the Workflows Team. The topics are contingent on need and any topics that might have come up throughout the month before the meeting.\nOccasionally, a request to discuss a topic from an outside party may arise and, when relevant, it will be added to the agenda.\nSteering committee members are encouraged to preview the agenda or add their own topics when the need arises.\n\n\nFeedback Deadlines\nWhen review or feedback is requested on the project for the Steering Committee, a 2–4 week deadline is typically given to provide ample time for review and consideration.\n\n\nAnnual Meeting\nEach year, we will hold a meeting to review:\n\nSteering Committee membership. We will ask if anyone is interested in stepping down from the committee and ideas for a suitable replacement.\nThis guidebook. We will ask the Steering Committee to review the guidebook prior to the meeting and be prepared to offer feedback on topics that should be added, edited, removed, etc.\n\n\n\nImportant Links\n\n{asar} repo\n{stockplotr} repo\nWorkflows Team GitHub\nGoogle chat space\nGitHub discussions (for {asar} and {stockplotr}) for public and open discussion on releases, questions, and specific topics",
+    "crumbs": [
+      "Steering Committee",
+      "Operations"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/what.html",
+    "href": "content/steering_committee/what.html",
+    "title": "Project Folder Navigation",
+    "section": "",
+    "text": "Project Folder Navigation\nThe “Steering Committee” project folder can be found in your “Shared Drives” folder in Google Drive. This folder contains important documents and resources related to the Steering Committee’s activities, including meeting notes, agendas, and other relevant materials.\nThe following folders contain the most relevant resources:\n\nCall agenda/notes\nConference abstracts\nImplementation plans\nManuscripts\n\n\n\nMeeting Notes\nMeeting notes from previous Steering Committee meetings are editable by the Steering Committee and internal NOAA HQ team. These notes provide a record of discussions, decisions, and action items from past meetings.\nEach meeting, a new section is added to the document with the date and agenda items discussed. Steering Committee members are encouraged to review the notes from previous meetings to stay informed about ongoing discussions and initiatives.\n\n\nAdditional Documents\nOver time, we have utilized Google docs to organize and draft important documents for the Steering Committee. These documents record the key processes and decisions made by the Steering Committee during the project’s development.\n\nProposed outline for a fisheries stock assessment report template\nProposed tables and figures\nDraft guidelines for a stock assessment report",
+    "crumbs": [
+      "Steering Committee",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/who.html",
+    "href": "content/steering_committee/who.html",
+    "title": "The Steering Committee",
+    "section": "",
+    "text": "The current members of the Steering Committee are:\n\nBen Williams (AFSC)\nDaniel Hennen (NEFSC)\nKiva Oken (NWFSC)\nEli Holmes (NWFSC)\nLisa Ailloud (SEFSC)\nCaitlin Allen Akselrud (SWFSC)\nMegumi Oshima (PIFSC)\nMichelle Sculley (PIFSC)\nKelli Johnson (HQ OST)\n\nEach member of the team was initially chosen for their historical involvement with the development of a reproducible workflow for their respective region and their expertise with stock assessments. The committee aims to represent a diverse range of perspectives from NOAA Fisheries Science Centers and offices.\n\n\nThe Steering Committee is joined by the current stock assessment Workflows Team which governs this group.\n\n\n\nSteering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "crumbs": [
+      "Steering Committee",
+      "Membership"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/who.html#the-workflows-team",
+    "href": "content/steering_committee/who.html#the-workflows-team",
+    "title": "The Steering Committee",
+    "section": "",
+    "text": "The Steering Committee is joined by the current stock assessment Workflows Team which governs this group.",
+    "crumbs": [
+      "Steering Committee",
+      "Membership"
+    ]
+  },
+  {
+    "objectID": "content/steering_committee/who.html#sec-membership",
+    "href": "content/steering_committee/who.html#sec-membership",
+    "title": "The Steering Committee",
+    "section": "",
+    "text": "Steering Committee members have the option to rotate off of the group given they provide a sufficient replacement before their departure. This ensures continuity and the infusion of fresh perspectives within the committee.\nAn annual review is will be conducted to provide opportunity for the Steering Committee to evaluate their membership and discuss any potential changes. This review will also allow the Workflows Team to assess the effectiveness of the committee and make adjustments as needed.\nWhen a member decides to step down from the Steering Committee, they are encouraged to recommend a suitable replacement from their organization or network. The recommended individual should possess relevant expertise and a commitment to advancing reproducible workflows within NOAA Fisheries.",
+    "crumbs": [
+      "Steering Committee",
+      "Membership"
     ]
   },
   {
     "objectID": "content/why.html",
     "href": "content/why.html",
-    "title": "Why",
+    "title": "Purpose of this guidebook",
     "section": "",
     "text": "We developed this guidebook for multiple reasons.\nFirst, we hope that gathering important project-related information into one place will facilitate your onboarding, independence, and integration into the group. It will also act as a resource to turn to if you find yourself unsure about anything related to the team: how it functions, its origin story, etc.\nSecondly, we hope that publishing this resource will increase the reproducibility of our project and decrease loss of institutional knowledge, especially since the Workflows project’s core members are contractors.",
     "crumbs": [
       "Team",
-      "Why"
+      "Introduction"
     ]
   },
   {
     "objectID": "content/why.html#high-level-conceptual-goals",
     "href": "content/why.html#high-level-conceptual-goals",
-    "title": "Why",
+    "title": "Purpose of this guidebook",
     "section": "High-level, conceptual goals",
     "text": "High-level, conceptual goals\nInitial project planning established that a broad goal of the Workflows project was to capitalize upon recent advances in technology and improve overall assessment processes. In alignment with the 2018 Next Generation Stock Assessment Improvement Plan, our project aims to improve three of the “4Ts” of a timely, efficient, and effective stock assessment enterprise: throughput (the number of assessments that can be produced); timeliness (the speed of assessment processes and assessment product delivery), and transparency (the accessibility of assessment results). Adoption of the project’s products is also expected to improve service and trust with National Stock Assessment Program partners and stakeholders.\nIn parallel with these goals, we expect the workflow to decrease the amount of time and effort spent completing tasks manually, when they could be completed in a semi-automated fashion. This outcome should increase reproducibility and transparency in stock assessment workflows, in alignment of the NOAA Fisheries Open Science initiative.",
     "crumbs": [
       "Team",
-      "Why"
+      "Introduction"
     ]
   },
   {
     "objectID": "content/why.html#specific-goals",
     "href": "content/why.html#specific-goals",
-    "title": "Why",
+    "title": "Purpose of this guidebook",
     "section": "Specific goals",
     "text": "Specific goals\nTo accomplish those high-level goals, we are focused on achieving the following objectives:\n\nDeveloping a workflow based on two R packages that create stock assessment templates and media used within them\nFacilitating workflow adoption by engaging in various teaching opportunities (workshops, office hours, etc.)",
     "crumbs": [
       "Team",
-      "Why"
+      "Introduction"
     ]
   }
 ]
