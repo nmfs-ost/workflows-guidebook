@@ -30,5 +30,5 @@ Meeting topics are continually added to the weekly meeting agenda. Team members 
 - [{asar} repo](https://github.com/nmfs-ost/asar)
 - [{stockplotr} repo](https://github.com/nmfs-ost/stockplotr)
 - [Workflows Team GitHub](https://github.com/orgs/nmfs-ost/teams/asar-collaborators)
-- [Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
+- [Steering Committee Google chat space](https://chat.google.com/room/AAAAaTb4jQc?cls=7)
 - GitHub discussions (for [{asar}](https://github.com/nmfs-ost/asar/discussions) and [{stockplotr}](https://github.com/nmfs-ost/stockplotr/discussions)) for public and open discussion on releases, questions, and specific topics

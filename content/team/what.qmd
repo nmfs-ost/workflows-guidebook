@@ -1,19 +1,19 @@
 # Project Folder Navigation
 
-The ["Automated Stock Assessment Workflow" project folder](https://drive.google.com/drive/folders/1Hls-4La8Jp0CUJfMPGtbAyo2PUfwmzgD) can be found in your "Shared Drives" folder in Google Drive. This folder contains important documents and resources related to the Workflow Team's activities, including meeting notes, reference documents, and other relevant materials.
+The ["Automated Stock Assessment Workflow" project folder](https://drive.google.com/drive/folders/1Hls-4La8Jp0CUJfMPGtbAyo2PUfwmzgD) can be found in your "Shared Drives" folder in Google Drive. This folder contains important documents and resources related to the Workflow Team's activities, including meeting notes, reference documents, and other relevant materials. You will obtain access to this folder once you request it during the onboarding process.
 
 The following folders contain the most relevant resources:
 
 - Scoping: A variety of subfolders with material related to workshops, information about report tables and figures, standard naming conventions, and more.
-- Cheatsheets: Materials needed to make {asar} and {stockplotr} cheatsheets.
+- Cheatsheets: Materials needed to make {asar} and {stockplotr} cheatsheets along with the current versions of the cheatsheets.
 - Communication: Materials related to communication with stakeholders and collaborators, as well as the one-pager.
-- POC interviews: Notes from interviews held with FSC representatives from across the agency when the project was in its early stages (2024).
+- POC interviews: Notes from interviews held with FSC (Fisheries Science Center) representatives from across the agency when the project was in its early stages (2024).
 - Manuscripts: Materials associated with manuscripts that are being written about the project.
 
 # GitHub Project Management
 
 - GitHub projects help us stay on top of short-term and long-term tasks for [{asar}](https://github.com/orgs/nmfs-ost/projects/44/views/4) and [{stockplotr}](https://github.com/orgs/nmfs-ost/projects/44/views/4).
-- Similarly, GitHub milestones help us (and higher-level leadership) gauge progress for [{asar}](https://github.com/nmfs-ost/asar/milestones) and [{stockplotr}](https://github.com/nmfs-ost/stockplotr/milestones).
+- Similarly, GitHub milestones help us (and higher-level leadership) gauge progress for [{asar}](https://github.com/nmfs-ost/asar/milestones) and [{stockplotr}](https://github.com/nmfs-ost/stockplotr/milestones). We create new milestones in 6-12 month cycles.
 
 # Other Important GitHub Repositories
 
@@ -24,9 +24,23 @@ The following folders contain the most relevant resources:
 
 # Other Project Resources
 
--a11y bookmarks
--tagpdf repo and its issues
--NSASSS talks about the project
+## Accessibility
+
+- [Section 508 Compliance: Quick Start Guide: 508 Compliance For NOAA IR Submissions](https://library.noaa.gov/Section508/QuickStart)
+- Tagging PDFs with `asar` relies on the `tagpdf` LaTeX package. The following are useful resources from the LaTeX Tagging Project:
+  - [Tagging Status of LaTeX Packages and Classes](https://latex3.github.io/tagging-project/tagging-status/).   This page is very important for tracking which contributed packages are working, which conflict with one another, and more.
+  - [Documentation](https://latex3.github.io/tagging-project/documentation/)
+  - [Example of a well-tagged PDF from LaTeX](https://latex3.github.io/tagging-project/documentation/wtpdf/larger-example).
+  - [Tagging Project issues](https://github.com/latex3/tagging-project/issues)
+  - [`tagpdf` issues](https://github.com/latex3/tagpdf/issues)
+  - [Tagging Project discussions about issues with accessibility checker software](https://github.com/latex3/tagging-project/discussions/categories/issues-with-accessibility-checkers-and-other-at-software)
+- Quarto's [2026 blog post](https://opensource.posit.co/blog/2026-03-05_pdf-accessibility-and-standards/) about the accessibility features in Quarto v1.9
+- [veraPDF accessible PDF-checking tool demo](https://demo.verapdf.org/)
+
+## Presentations
+
+- Sam's 2024 National Stock Assessment Seminar Series (NSASSS) talk: [Learning and Improving upon Stock Assessment Workflows across the U.S.A.](https://www.youtube.com/watch?v=Q8XJTTkjcts&list=PLpb5LINL0Ys9ke3CtJmkQByXu9qb_YkX0&index=19)
+- Sophie's 2026 NSASSS talk: [Increasing the Accessibility of NOAA Fisheries Stock Assessment Reports](https://www.youtube.com/watch?v=26n5aPc8eZw&list=PLpb5LINL0Ys9ke3CtJmkQByXu9qb_YkX0&index=2)
 
 ## Affiliated Project Resources
 
