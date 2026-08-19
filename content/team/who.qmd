@@ -34,12 +34,11 @@ time_zone <- c(
 description <- c(
   "Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee.",
   "Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.",
-  "Steve...",
-  "Kathryn...",
-  "Bai..."
+  "Steve was a member of the team from 2024-2025. He was primarily responsible for scoping of assessment output and creation of the captions and alternative text templates. Steve provided expetise in stock assessment from his previous work.",
+  "Kathryn was the initial lead for the workflows project and served as the NOAA federal liason on the project. She organized and lead the steering committee and provided advice for the continuation of the project.",
+  "Bai was a team member who joined the project in it's early stages. She was on the team to provide expertise with testing framework and other package development concepts. Bai took over the lead role when Kathryn stepped down and left the project once Sam and Sophie had the project well underway."
 )
 
-# Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly
 info_df <- data.table::as.data.table(
   data.frame(
     "Name" = name,
@@ -49,21 +48,23 @@ info_df <- data.table::as.data.table(
     "Description" = description
   )
 )
-# library(gt)
+info_df |> gt::gt()
 ```
 
 
 
 # Important collaborators / POCs
 
-Bai- unit testing and google workstations
-Kathryn- Gh actions and FIT
-Tim Miller- WHAM
-Jeff V- SIS/StockSMART
-Grant Adams- Rceattle
-Kelli- FIMS
-Ian- SS3 and r4ss
-Derek Bolser- fishery-independent surveys
-Jon Peake & Eli- open science
-Lincoln Rehm- fishery-dependent surveys
-Evan Nightingale- OCIO
+The following is a list of points of contact (POC) relevant to the project:
+
+* Bai Li - unit testing and google workstations
+* Kathryn Doering - GitHub actions and Fisheries Integrated Toolbox (FIT)
+* Tim Miller - WHAM Developer
+* Jeff Vieser - SIS/StockSMART Lead
+* Grant Adams - Rceattle Developer
+* Kelli Johnson - FIMS Lead
+* Ian Taylor - SS3 and r4ss
+* Derek Bolser - NOAA HQ fishery-independent surveys
+* Jon Peake & Eli Holmes - Open Science
+* Lincoln Rehm - NOAA HQ fishery-dependent surveys
+* Evan Nightingale - OCIO

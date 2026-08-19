@@ -1,15 +1,71 @@
+# Collaboration
+
+## Team
+
+While we meet weekly [link to when-where], occassionally extra or more focused co-working meetings are neccessary. A one off meeting can be set for any length of time, but typically one hour or enough to finish the task at hand. This frequently occurs when the team is working on a bug or close to finishing a new feature.
+
+Communication can vary, but is often through Google chat (gchat). Please be aware of everyone's working hours and that gchats will disappear after 24 hours. We will use email when we need to communicate with other members of the team outside of their working hours. There are benefits to both communication channels, so gchat is best for quick response while email is used to communicate needs and awareness of [things] as well as maintain a paper trail for needed information.
+
+Email communication can also be used when a team member is needed for review of documents or code such as, but not limited to, abstract submissions, papers, or other important docs that would be reviewed outside the team.
+
+# Non-Team
+
+The workflows team maintains communications with a variety of groups in order to (1) reduce duplication of work and (2) ensure that the team is aware of other ongoing projects and their progress that links to the workflows project. This includes, but is not limited to, the following groups:
+
+* SIS
+* NSAP
+* FIMS
+* surveys team reps
+
+## GitHub and Code Review
+
 - How we create PRs, review them/provide feedback, don't merge unless tests pass, etc.
 -versioning guide
 
+# Planning
+
+## Annual
+
+An annual planning meeting is held every year right before the start of the new federal calendar year. To be safe, this meeting should be held close to, but before October 1st in case there is a lapse in federal appropriations. This meeting consists of developing the following:
+
+* revisiting the previous GitHub projects
+* Creating a new GitHub project for each package
+* Developing and prioritizing features and other goals for the next year
+* Creating draft milestones
+
+When creating a new GitHub project, there are tasks specfic to each package. In the case a feature or task is relevant to each package, then the task is duplicated. Descriptions and relevant information is added to each task. The team will then prioritize the tasks and assign them to team members. The team will also add target dates and milestones to each task. 
+
+### GitHub Projects
+
+Each project should be titled according to the target year and package (i.e. "{stockplotr} FY26 Goals and Timeline"). The headers columns contain:
+
+* title - task/feature
+* assignees - selected person responsible for development
+* status - current status of the task, options include: Todo, In progress, In review, Blocked, and Done
+* target date - the date by which the task is expected to be completed
+* linked pull request (automatic)
+* notes - any information helpful to the task, but not relevant to include in the description
+* priority - high, medium, low, parking lot
+
+Most tasks will be made in the project as "draft issues" meaning that they will not appear in the issues page until opened. Every month the project lead will go through the tasks in the GitHub project and open the ones planned for that month. This approach reduces the number of issues and allows us to view and prioritize issues that are submitted by users. All GitHub projects should be made public in order to keep to open science principles and allow users to see what features are planned for the coming year.
+
+### Milestones
+
+Milestones are used for the team and NOAA leadership. They contain high-level and detailed overviews for that milestone. Milestones can be made monthly or quarterly with one off milestone such as ["High Priority figures"](https://github.com/nmfs-ost/stockplotr/milestone/14) or some type of grouping. The important piece to consider is that milestones are a general summary of what we want to develop and its importance. Issues in GitHub are linked to milestones to provide line-by-line details.
+
+
+
 -Annual planning: how we use GH projects, revisit them, assign tasks, add target dates and milestones, etc.
 
--we can set up extra meetings beyond coworking if we need to work on a bug, etc.
+## Steering Committee
 
--gchat frequently, email for other things (like asking for review on a google doc)
+While we have a separate section describing the roles and responsibilities of the steering committee along with how it is organized, it is important to touch on how the workflows team handles planning and organization of the steering committee. Before each meeting, the workflows team sets aside time during the weekly check-in meeting to plan the steering committee meeting for that month. This can either be the week beforehand or the day of. Usually we are able to pull ideas or planned topics from the "Future Topics" subheading in the meeting notes doc or have an idea of feedback we need to gather.
 
--we ask each other for review on emails to many recipients, abstract submissions, papers, other important docs that would be reviewed outside the team
+In the case there are no timely planned topics or is no need for feedback, we will cancel the meeting. This rarely occurs, but can happen from time to time. The meeting can also be cancelled for low attendance particularly in summer or around the winter holidays when many steering committee members are taking leave.
 
--check in with related groups: SIS, NSAP, FIMS, surveys team reps
 
--plan out agenda for SC during coworking meeting week before SC mtg
+
+
+
+
 
