@@ -34,7 +34,7 @@ time_zone <- c(
 description <- c(
   "Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee.",
   "Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.",
-  "Steve was a member of the team from 2024-2025. He was primarily responsible for scoping of assessment output and creation of the captions and alternative text templates. Steve provided expetise in stock assessment from his previous work.",
+  "Steve was a member of the team from 2024-2025. He was primarily responsible for scoping of assessment output and creation of the captions and alternative text templates. Steve provided expertise in stock assessment from his previous work.",
   "Kathryn was the initial lead for the workflows project and served as the NOAA federal liason on the project. She organized and lead the steering committee and provided advice for the continuation of the project.",
   "Bai was a team member who joined the project in it's early stages. She was on the team to provide expertise with testing framework and other package development concepts. Bai took over the lead role when Kathryn stepped down and left the project once Sam and Sophie had the project well underway."
 )
