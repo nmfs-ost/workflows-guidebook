@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -75,14 +78,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f7e427472e74098c2d60a49aacea59e7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-3fd30381d88e32e42717d1d830b83969.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-f7e427472e74098c2d60a49aacea59e7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-48ecd116ef3334a30b0b0d25bc27c368.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-8fab4859fdc5c14fb618f5edc77fb230.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-48ecd116ef3334a30b0b0d25bc27c368.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -472,27 +475,541 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>description <span class="ot">&lt;-</span> <span class="fu">c</span>(</span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee."</span>,</span>
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports."</span>,</span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Steve..."</span>,</span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Kathryn..."</span>,</span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Bai..."</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Steve was a member of the team from 2024-2025. He was primarily responsible for scoping of assessment output and creation of the captions and alternative text templates. Steve provided expertise in stock assessment from his previous work."</span>,</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Kathryn was the initial lead for the workflows project and served as the NOAA federal liason on the project. She organized and lead the steering committee and provided advice for the continuation of the project."</span>,</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Bai was a team member who joined the project in it's early stages. She was on the team to provide expertise with testing framework and other package development concepts. Bai took over the lead role when Kathryn stepped down and left the project once Sam and Sophie had the project well underway."</span></span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>)</span>
 <span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="co"># Note to Sam: data.table and gt need to be added to the GH action so that they're installed, or else the website won't render properly</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>info_df <span class="ot">&lt;-</span> data.table<span class="sc">::</span><span class="fu">as.data.table</span>(</span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>(</span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Name"</span> <span class="ot">=</span> name,</span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Role"</span> <span class="ot">=</span> role,</span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Status"</span> <span class="ot">=</span> status,</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Time Zone"</span> <span class="ot">=</span> time_zone,</span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Description"</span> <span class="ot">=</span> description</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  )</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="co"># library(gt)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>info_df <span class="ot">&lt;-</span> data.table<span class="sc">::</span><span class="fu">as.data.table</span>(</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>(</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Name"</span> <span class="ot">=</span> name,</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Role"</span> <span class="ot">=</span> role,</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Status"</span> <span class="ot">=</span> status,</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Time Zone"</span> <span class="ot">=</span> time_zone,</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Description"</span> <span class="ot">=</span> description</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>info_df <span class="sc">|&gt;</span> gt<span class="sc">::</span><span class="fu">gt</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div id="gneugxgwxx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#gneugxgwxx table {
+  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#gneugxgwxx thead, #gneugxgwxx tbody, #gneugxgwxx tfoot, #gneugxgwxx tr, #gneugxgwxx td, #gneugxgwxx th {
+  border-style: none;
+}
+
+#gneugxgwxx p {
+  margin: 0;
+  padding: 0;
+}
+
+#gneugxgwxx .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#gneugxgwxx .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#gneugxgwxx .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#gneugxgwxx .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#gneugxgwxx .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#gneugxgwxx .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#gneugxgwxx .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#gneugxgwxx .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#gneugxgwxx .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#gneugxgwxx .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#gneugxgwxx .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#gneugxgwxx .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#gneugxgwxx .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#gneugxgwxx .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#gneugxgwxx .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gneugxgwxx .gt_stub_row_group {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#gneugxgwxx .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#gneugxgwxx .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#gneugxgwxx .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gneugxgwxx .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#gneugxgwxx .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gneugxgwxx .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#gneugxgwxx .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gneugxgwxx .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gneugxgwxx .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gneugxgwxx .gt_left {
+  text-align: left;
+}
+
+#gneugxgwxx .gt_center {
+  text-align: center;
+}
+
+#gneugxgwxx .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#gneugxgwxx .gt_font_normal {
+  font-weight: normal;
+}
+
+#gneugxgwxx .gt_font_bold {
+  font-weight: bold;
+}
+
+#gneugxgwxx .gt_font_italic {
+  font-style: italic;
+}
+
+#gneugxgwxx .gt_super {
+  font-size: 65%;
+}
+
+#gneugxgwxx .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#gneugxgwxx .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#gneugxgwxx .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#gneugxgwxx .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#gneugxgwxx .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#gneugxgwxx .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#gneugxgwxx .gt_indent_5 {
+  text-indent: 25px;
+}
+
+#gneugxgwxx .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#gneugxgwxx div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top table table-sm table-striped small" data-quarto-bootstrap="false">
+<thead>
+<tr class="gt_col_headings header">
+<th id="Name" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Name</th>
+<th id="Role" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Role</th>
+<th id="Status" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Status</th>
+<th id="Time.Zone" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Time.Zone</th>
+<th id="Description" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Description</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="Name">Sam Schiano</td>
+<td class="gt_row gt_left" headers="Role">Coordinator and developer</td>
+<td class="gt_row gt_left" headers="Status">Active</td>
+<td class="gt_row gt_left" headers="Time.Zone">Eastern Time (US &amp; Canada)</td>
+<td class="gt_row gt_left" headers="Description">Sam is an initial team member who brainstormed and began development of the project. She primarily works on package development for {asar} and {stockplotr}, and leads interactions with the client and Steering Committee.</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Name">Sophie Breitbart</td>
+<td class="gt_row gt_left" headers="Role">Developer</td>
+<td class="gt_row gt_left" headers="Status">Active</td>
+<td class="gt_row gt_left" headers="Time.Zone">Eastern Time (US &amp; Canada)</td>
+<td class="gt_row gt_left" headers="Description">Sophie is a team member who joined once the project was underway. She primarily works on package development for {asar} and {stockplotr}, especially the components that add accessibility features to the reports.</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Name">Steve Saul</td>
+<td class="gt_row gt_left" headers="Role">Research &amp; Development</td>
+<td class="gt_row gt_left" headers="Status">Inactive</td>
+<td class="gt_row gt_left" headers="Time.Zone">Mountain Time</td>
+<td class="gt_row gt_left" headers="Description">Steve was a member of the team from 2024-2025. He was primarily responsible for scoping of assessment output and creation of the captions and alternative text templates. Steve provided expertise in stock assessment from his previous work.</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="Name">Kathryn Doering</td>
+<td class="gt_row gt_left" headers="Role">Coordinator</td>
+<td class="gt_row gt_left" headers="Status">Inactive</td>
+<td class="gt_row gt_left" headers="Time.Zone">Western Time (US &amp; Canada)</td>
+<td class="gt_row gt_left" headers="Description">Kathryn was the initial lead for the workflows project and served as the NOAA federal liason on the project. She organized and lead the steering committee and provided advice for the continuation of the project.</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="Name">Bai Li</td>
+<td class="gt_row gt_left" headers="Role">Developer and Coordinator</td>
+<td class="gt_row gt_left" headers="Status">Inactive</td>
+<td class="gt_row gt_left" headers="Time.Zone">Eastern Time (US &amp; Canada)</td>
+<td class="gt_row gt_left" headers="Description">Bai was a team member who joined the project in it's early stages. She was on the team to provide expertise with testing framework and other package development concepts. Bai took over the lead role when Kathryn stepped down and left the project once Sam and Sophie had the project well underway.</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
 </div>
 </section>
 <section id="important-collaborators-pocs" class="level1">
 <h1>Important collaborators / POCs</h1>
-<p>Bai- unit testing and google workstations Kathryn- Gh actions and FIT Tim Miller- WHAM Jeff V- SIS/StockSMART Grant Adams- Rceattle Kelli- FIMS Ian- SS3 and r4ss Derek Bolser- fishery-independent surveys Jon Peake &amp; Eli- open science Lincoln Rehm- fishery-dependent surveys Evan Nightingale- OCIO</p>
+<p>The following is a list of points of contact (POC) relevant to the project:</p>
+<ul>
+<li>Bai Li - unit testing and google workstations</li>
+<li>Kathryn Doering - GitHub actions and Fisheries Integrated Toolbox (FIT)</li>
+<li>Tim Miller - WHAM Developer</li>
+<li>Jeff Vieser - SIS/StockSMART Lead</li>
+<li>Grant Adams - Rceattle Developer</li>
+<li>Kelli Johnson - FIMS Lead</li>
+<li>Ian Taylor - SS3 and r4ss</li>
+<li>Derek Bolser - NOAA HQ fishery-independent surveys</li>
+<li>Jon Peake &amp; Eli Holmes - Open Science</li>
+<li>Lincoln Rehm - NOAA HQ fishery-dependent surveys</li>
+<li>Evan Nightingale - OCIO</li>
+</ul>
 
 
 </section>
