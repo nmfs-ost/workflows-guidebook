@@ -46,7 +46,7 @@ After every release, the first new merge into main should increment the version 
 * Hotfixes and bug fixes can be released at any time and will add one number higher in the third decimal in version but should be tagged and released regardless of complexity
 * A feature based release should occur approximately monthly but essentially when a major feature or group of related features are complete to prevent features from sitting for too long between releases
 * Use branch with minor release number to indicate next release
-* No longer using dev branch
+* We're no longer using the following process: make a feature branch based on a "dev" branch; request review of feature branch; merge approved feature branch into dev branch; ultimately, merge dev branch into main branch. Instead, we typically make feature branches off of the main branch.
 * We should, generally, not be waiting to release extremely large features once they are finished and instead we should focus on minimal viable products going into main as soon as they can
 * Each feature should increase the minor release number by one and will be tagged and released as such
 * Releases notes will be put out to users once a feature or group of features is ready to be released out of alpha
