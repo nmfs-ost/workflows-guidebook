@@ -2,7 +2,7 @@
 
 Current and previous members of the Workflows Team.
 
-```{r}
+```{r echo=FALSE}
 name <- c(
   "Sam Schiano",
   "Sophie Breitbart",
@@ -44,13 +44,17 @@ info_df <- data.table::as.data.table(
     "Name" = name,
     "Role" = role,
     "Status" = status,
-    "Time Zone" = time_zone,
+    "TimeZone" = time_zone,
     "Description" = description
   )
 )
-info_df |> gt::gt()
-```
 
+info_df |>
+  gt::gt() |>
+  gt::cols_label(
+    TimeZone = "Time Zone"
+  )
+```
 
 
 # Important collaborators / POCs
