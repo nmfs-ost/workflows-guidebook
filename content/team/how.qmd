@@ -2,9 +2,9 @@
 
 ## Team
 
-While we meet weekly(../team/when_where.qmd#meetings), occasionally extra or more focused co-working meetings are necessary. A one off meeting can be set for any length of time, but typically one hour or enough to finish the task at hand. This frequently occurs when the team is working on a bug or close to finishing a new feature.
+While we meet [weekly](../team/when_where.qmd#meetings), occasionally extra or more focused co-working meetings are necessary. A one off meeting can be set for any length of time, but typically one hour is enough to finish the task at hand. This frequently occurs when the team is working on a bug or close to finishing a new feature.
 
-Communication can vary, but is often through Google chat (gchat). Please be aware of everyone's working hours and that gchats will disappear after 24 hours. We will use email when we need to communicate with other members of the team outside of their working hours. There are benefits to both communication channels, so gchat is best for quick response while email is used to communicate needs and awareness of [things] as well as maintain a paper trail for needed information.
+Communication can vary, but is often through Google chat (gchat). Please be aware of everyone's working hours and that gchats will disappear after 24 hours. We will use email when we need to communicate with other members of the team outside of their working hours. There are benefits to both communication channels, so gchat is best for quick response while email is used to communicate needs and awareness of things as well as maintain a paper trail for needed information.
 
 Email communication can also be used when a team member is needed for review of documents or code such as, but not limited to, abstract submissions, papers, or other important docs that would be reviewed outside the team.
 
@@ -66,7 +66,7 @@ An annual planning meeting is held every year right before the start of the new 
 
 When creating a new GitHub project, there are tasks specific to each package. Each task should start with a [release indicator](https://github.com/nmfs-ost/stockplotr/blob/main/CONTRIBUTING.md#release-indicators) in square brackets followed by the title (i.e. "[feat] my new feature"). In the case a feature or task is relevant to each package, then the task is duplicated. Descriptions and relevant information is added to each task (see image below for example). The team will then prioritize the tasks and assign them to team members. The team will also add target dates and milestones to each task.
 
-![Example of details for an expanded task found in a GitHub project. Many of the details are access whether the issue or is in draft or published.](gh_project_issue_ex.png)
+![Example of details for an expanded task found in a GitHub project. Many of the details are access whether the issue or is in draft or published.](team/gh_project_issue_ex.png)
 
 ### GitHub Projects
 
