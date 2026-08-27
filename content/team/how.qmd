@@ -66,7 +66,7 @@ An annual planning meeting is held every year right before the start of the new 
 
 When creating a new GitHub project, there are tasks specific to each package. Each task should start with a [release indicator](https://github.com/nmfs-ost/stockplotr/blob/main/CONTRIBUTING.md#release-indicators) in square brackets followed by the title (i.e. "[feat] my new feature"). In the case a feature or task is relevant to each package, then the task is duplicated. Descriptions and relevant information is added to each task (see image below for example). The team will then prioritize the tasks and assign them to team members. The team will also add target dates and milestones to each task.
 
-![Example of details for an expanded task found in a GitHub project. Many of the details are access whether the issue or is in draft or published.](team/gh_project_issue_ex.png)
+![Example of details for an expanded task found in a GitHub project. Many of the details are access whether the issue or is in draft or published.](content/team/gh_project_issue_ex.PNG)
 
 ### GitHub Projects
 
