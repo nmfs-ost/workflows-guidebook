@@ -4,7 +4,7 @@ Current and previous members of the Workflows Team.
 
 ```{r echo=FALSE}
 name <- c(
-  "Sam Schiano",
+  "Sam Bredeck",
   "Sophie Breitbart",
   "Steve Saul",
   "Kathryn Doering",
